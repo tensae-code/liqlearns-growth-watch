@@ -41,49 +41,57 @@
    "file": "prospects.md",
    "id": "prospects-parents",
    "kind": "prospects",
-   "title": "Prospects: Parents"
+   "section": "Parents",
+   "title": "Parents"
   },
   {
    "file": "prospects.md",
    "id": "prospects-teachers-tutors",
    "kind": "prospects",
-   "title": "Prospects: Teachers / Tutors"
+   "section": "Teachers / Tutors",
+   "title": "Teachers / Tutors"
   },
   {
    "file": "prospects.md",
    "id": "prospects-students-8",
    "kind": "prospects",
-   "title": "Prospects: Students (8+)"
+   "section": "Students (8+)",
+   "title": "Students (8+)"
   },
   {
    "file": "prospects.md",
    "id": "prospects-adult-learners",
    "kind": "prospects",
-   "title": "Prospects: Adult learners"
+   "section": "Adult learners",
+   "title": "Adult learners"
   },
   {
    "file": "prospects.md",
    "id": "prospects-older-adults-60",
    "kind": "prospects",
-   "title": "Prospects: Older adults (60+)"
+   "section": "Older adults (60+)",
+   "title": "Older adults (60+)"
   },
   {
    "file": "prospects.md",
    "id": "prospects-school-admins",
    "kind": "prospects",
-   "title": "Prospects: School admins"
+   "section": "School admins",
+   "title": "School admins"
   },
   {
    "file": "prospects.md",
    "id": "prospects-employers-orgs",
    "kind": "prospects",
-   "title": "Prospects: Employers / Orgs"
+   "section": "Employers / Orgs",
+   "title": "Employers / Orgs"
   },
   {
    "file": "prospects.md",
    "id": "prospects-other",
    "kind": "prospects",
-   "title": "Prospects: Other"
+   "section": "Other",
+   "title": "Other"
   },
   {
    "file": "success-patterns.md",
