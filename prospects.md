@@ -56,3 +56,5 @@ _(none yet)_
 
 ---
 Delivery note: hourly finds land here and in the sibling files. Telegram group delivery (one topic per section) activates if/when the user sets up a bot.
+| "Im definitely getting my son this app!" — parent reacting to an IXL demo reel (shopping for a learning app for her son) | Instagram commenter (parent) | https://www.instagram.com/reel/DXxXzZfs5l0/ | 2026-10-03 |
+| "I need this for my kids" — parent expressing purchase intent under a learning-app reel | Instagram commenter (parent) | https://www.instagram.com/reel/DUU9k4CEyr-/ | 2026-10-03 |
