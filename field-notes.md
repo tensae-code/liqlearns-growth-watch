@@ -4,13 +4,13 @@ Real experiences only. The user is building deep, experience-first knowledge for
 EXPERIENCE BAR: real practitioners only — parents living it, teachers in classrooms, learning-science practitioners, managers with teams, owners running businesses. Skip shiny influencer fluff and people repeating things they only read. When in doubt, prefer the voice with scars.
 Entry format: who, their real-experience credential, what they said (quote), link, why it matters for LiqLearns/TikTok.
 Parent complaints logged here double as TikTok video topics.
-Last run: 2026-10-03 07:47 EDT — rotation 7 (Lovable-built website issues: SEO invisibility, accessibility failures, security-header gaps, perf auditing). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced).
+Last run: 2026-10-03 11:47 EDT — rotation 11 (solution-seekers & feature requests: career-thread solution-seekers, OpenEd AI-tutor relationship take, parent new-math voices, human-reviewed AI roadmap idea). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced).
 
 ## Parents on raising children
-_(none yet)_
+- **Moreno** — parent attending a school-run math class for parents struggling with "new math" (WVLT, 2026-09-25) — "I was able to understand when the teacher actually explained it to me... Yeah, it's very helpful — whole new world." Source: https://wvlt.tv/2026/09/25/why-parents-struggle-with-new-math-how-one-school-is-helping/ — Why it matters: parents are learners too — LiqLearns' adult-learner segment includes parents who need the subject re-taught so they can help their kids; strong TikTok topic on "new math" anxiety.
 
 ## Teachers & learning science on reaching students
-_(none yet)_
+- **OpenEd (2026)** — homeschool platform's honest AI-tutor assessment, written for parents: "AI tutors won't solve the 2 Sigma Problem on their own — Bloom's original research showed that human tutoring worked because of the relationship, not only the personalization." Plus the split: "AI excels at patient, consistent practice and instant feedback. Humans excel at motivation, relationship, and teaching reasoning. Best results combine both." Source: https://opened.co/blog/ai-tutors-homeschool — Why it matters: direct third-party validation of the user's core positioning (tutor-guided, not just AI); potential TikTok topic — "why AI tutors fail is relationships, not smarts."
 
 ## Managers on developing people
 _(none yet)_

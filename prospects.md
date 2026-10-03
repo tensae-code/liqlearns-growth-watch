@@ -1,7 +1,7 @@
 # Prospects — classified outreach list
 
 Flag-only: NEVER contact, message, email, or invite anyone from this list. The user does his own outreach (Sunday grind). Classified so he knows exactly how to pitch each one — parents, teachers/tutors, students, adult learners, older adults, and admins each get a different sell. Categories stay open: new ones get added whenever the research finds a kind of person with no fitting bucket. Scope: baby to granny — full-lifespan tutoring, NOT kids-only (widened 2026-10-03).
-Last run: 2026-10-03 07:47 EDT — rotation 7 (Lovable-built website issues: SEO invisibility, accessibility failures, security-header gaps, perf auditing). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced).
+Last run: 2026-10-03 11:47 EDT — rotation 11 (solution-seekers & feature requests: career-thread solution-seekers, OpenEd AI-tutor relationship take, parent new-math voices, human-reviewed AI roadmap idea). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced).
 
 ## Parents
 - **Anonymous parent (Ripoff Report #1263498)** — Parent — "It took up to 5 minutes to load one page on ABC mouse... I don't know what kind of people run this website but they are either incompetent or worse malicious in their intent to scam people." — Platform: ABCmouse — https://www.ripoffreport.com/reports/abc-mouse/glendale-california-91203/abc-mouse-age-of-learning-inc-billed-in-error-billed-after-cancellation-no-refund-when-1263498 — Found: 2026-10-03
@@ -31,7 +31,7 @@ Last run: 2026-10-03 07:47 EDT — rotation 7 (Lovable-built website issues: SEO
 - **Quakertown students (11 emailed the administration)** — Students — "I have... received, to date, 11 emails from students asking me if I would be interested in getting rid of IXL" — one read simply "please ban IXL." — Platform: IXL — https://citizenportal.ai/articles/7800363/pennsylvania/school-districts/quakertown-community-sd/pennsylvania/school-districts/quakertown-community-sd/pennsylvania/school-districts/quakertown-community-sd/pennsylvania/school-districts/quakertown-community-sd/Pennsylvania/Quakertown-administrators-move-to-end-broad-IXL-use-after-student-parent-complaints — Found: 2026-10-03
 
 ## Adult learners
-_(none yet)_
+- **Career Advice Thread participants** — Adult learners (solution-seekers in GitHub community discussion #51386, trading where/how to learn tech skills) — "Use AI to explain concepts you don't understand... Don't: copy-paste without understanding. You need to know when the AI is wrong." — Platforms recommended: roadmap.sh, freeCodeCamp, The Odin Project, CS50 — https://github.com/orgs/community/discussions/51386 — Found: 2026-10-03
 
 ## Older adults (60+)
 _(none yet)_
