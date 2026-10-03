@@ -1,76 +1,92 @@
 {
   "panels": [
     {
+      "title": "Parents",
+      "file": "prospects.md",
+      "kind": "prospects",
+      "section": "Parents"
+    },
+    {
+      "title": "Teachers / Tutors",
+      "file": "prospects.md",
+      "kind": "prospects",
+      "section": "Teachers / Tutors"
+    },
+    {
+      "title": "Students (8+)",
+      "file": "prospects.md",
+      "kind": "prospects",
+      "section": "Students (8+)"
+    },
+    {
+      "title": "Adult learners",
+      "file": "prospects.md",
+      "kind": "prospects",
+      "section": "Adult learners"
+    },
+    {
+      "title": "Older adults (60+)",
+      "file": "prospects.md",
+      "kind": "prospects",
+      "section": "Older adults (60+)"
+    },
+    {
+      "title": "School admins",
+      "file": "prospects.md",
+      "kind": "prospects",
+      "section": "School admins"
+    },
+    {
+      "title": "Employers / Orgs",
+      "file": "prospects.md",
+      "kind": "prospects",
+      "section": "Employers / Orgs"
+    },
+    {
+      "title": "Other",
+      "file": "prospects.md",
+      "kind": "prospects",
+      "section": "Other"
+    },
+    {
+      "title": "Complaints Check",
       "file": "complaints-check.md",
       "kind": "table"
     },
     {
-      "file": "course-love.md",
-      "kind": "notes"
+      "title": "Success Patterns",
+      "file": "success-patterns.md",
+      "kind": "table"
     },
     {
+      "title": "Feature Requests",
       "file": "feature-requests.md",
       "kind": "table"
     },
     {
-      "file": "field-notes.md",
-      "kind": "notes"
-    },
-    {
-      "file": "hiring-needs.md",
-      "kind": "table"
-    },
-    {
-      "file": "idea.md",
-      "kind": "notes"
-    },
-    {
+      "title": "Lovable Fix Checklist",
       "file": "lovable-fix-checklist.md",
       "kind": "checklist"
     },
     {
-      "file": "prospects.md",
-      "section": "Parents",
-      "kind": "prospects"
-    },
-    {
-      "file": "prospects.md",
-      "section": "Teachers / Tutors",
-      "kind": "prospects"
-    },
-    {
-      "file": "prospects.md",
-      "section": "Students (8+)",
-      "kind": "prospects"
-    },
-    {
-      "file": "prospects.md",
-      "section": "Adult learners",
-      "kind": "prospects"
-    },
-    {
-      "file": "prospects.md",
-      "section": "Older adults (60+)",
-      "kind": "prospects"
-    },
-    {
-      "file": "prospects.md",
-      "section": "School admins",
-      "kind": "prospects"
-    },
-    {
-      "file": "prospects.md",
-      "section": "Employers / Orgs",
-      "kind": "prospects"
-    },
-    {
-      "file": "prospects.md",
-      "section": "Other",
-      "kind": "prospects"
-    },
-    {
-      "file": "success-patterns.md",
+      "title": "Hiring Needs",
+      "file": "hiring-needs.md",
       "kind": "table"
+    },
+    {
+      "title": "Idea",
+      "file": "idea.md",
+      "kind": "notes"
+    },
+    {
+      "title": "Field Notes",
+      "file": "field-notes.md",
+      "kind": "notes"
+    },
+    {
+      "title": "Course Love",
+      "file": "course-love.md",
+      "kind": "notes"
     }
   ]
 }
