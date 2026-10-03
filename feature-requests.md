@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-03 18:30 EDT — APK/software scope seeded (Edmodo shutdown lesson; Lernzy offline AI tutor; NCTB Books APK).
+Last run: 2026-10-03 18:47 EDT — rotation 18 (long tail: BYJU'S refund/cancel trap + Lido dead-app billing + BYJU'S infra lockout, fake $249-toolkit AI subscription scam sites, Chegg AI-wrong-answers + cancel-charges, fleeceware, Tuteria commission model, uLesson exam alignment; +3 parent prospects incl. solution-seekers). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced).
 
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
 |---|---|---|---|---|---|
@@ -19,3 +19,4 @@ Last run: 2026-10-03 18:30 EDT — APK/software scope seeded (Edmodo shutdown le
 | Fully offline on-device AI tutoring — every model, lesson, and student data lives on the device, zero internet after setup (Lernzy, India) | Lernzy (GitHub) | https://github.com/prakrutibhaskar/lernzy | Non-negotiable for low-connectivity regions (Ethiopia included); also the strongest privacy story possible. | roadmap | roadmap |
 | Offline curriculum textbook packs, aligned per country/curriculum (NCTB Books APK, Bangladesh: Class 1–12, Bangla + English + madrasah, offline reading) | NCTB Books (APKPure) | https://apkpure.com/nctb-books-2026-offline/com.NCTBTextbooks.class1to12 | Curriculum alignment per region wins where the big platforms don't localize; offline-first wins where internet is unstable. | roadmap | roadmap |
 | Real-time parent diagnostic reports — the #1 thing IXL users praise ("allows us to clearly track a child's level and progress"; "fully adaptive... real-time parent reports") | IXL users (Trustpilot/Reddit/IG via reviews) | https://brighterly.com/blog/ixl-review/ | Parent-visible progress is the retention engine; LiqLearns family plans need a parent dashboard with diagnostics, not just a bill. | roadmap | roadmap |
+| Expert proofreading + plagiarism detection + advanced math help bundled into homework-help tiers (features Chegg markets that users expect at the top plan) | Chegg plan features (TopConsumerReviews Oct 2026 roundup) | https://www.topconsumerreviews.com/best-homework-help/reviews/chegg.php | Homework-help buyers compare plans on these utilities — if LiqLearns ever sells a homework-help tier, proofreading + plagiarism detection + advanced-math help are the table stakes, not differentiators. | roadmap | roadmap |
