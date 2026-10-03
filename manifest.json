@@ -1,103 +1,72 @@
 {
- "branch": "main",
- "panels": [
-  {
-   "file": "complaints-check.md",
-   "id": "complaints-check",
-   "kind": "table",
-   "title": "Complaints Check"
-  },
-  {
-   "file": "feature-requests.md",
-   "id": "feature-requests",
-   "kind": "table",
-   "title": "Feature Requests"
-  },
-  {
-   "file": "field-notes.md",
-   "id": "field-notes",
-   "kind": "notes",
-   "title": "Field Notes"
-  },
-  {
-   "file": "hiring-needs.md",
-   "id": "hiring-needs",
-   "kind": "table",
-   "title": "Hiring Needs"
-  },
-  {
-   "file": "idea.md",
-   "id": "idea",
-   "kind": "notes",
-   "title": "Idea"
-  },
-  {
-   "file": "lovable-fix-checklist.md",
-   "id": "lovable-fix-checklist",
-   "kind": "checklist",
-   "title": "Lovable Fix Checklist"
-  },
-  {
-   "file": "prospects.md",
-   "id": "prospects-parents",
-   "kind": "prospects",
-   "section": "Parents",
-   "title": "Parents"
-  },
-  {
-   "file": "prospects.md",
-   "id": "prospects-teachers-tutors",
-   "kind": "prospects",
-   "section": "Teachers / Tutors",
-   "title": "Teachers / Tutors"
-  },
-  {
-   "file": "prospects.md",
-   "id": "prospects-students-8",
-   "kind": "prospects",
-   "section": "Students (8+)",
-   "title": "Students (8+)"
-  },
-  {
-   "file": "prospects.md",
-   "id": "prospects-adult-learners",
-   "kind": "prospects",
-   "section": "Adult learners",
-   "title": "Adult learners"
-  },
-  {
-   "file": "prospects.md",
-   "id": "prospects-older-adults-60",
-   "kind": "prospects",
-   "section": "Older adults (60+)",
-   "title": "Older adults (60+)"
-  },
-  {
-   "file": "prospects.md",
-   "id": "prospects-school-admins",
-   "kind": "prospects",
-   "section": "School admins",
-   "title": "School admins"
-  },
-  {
-   "file": "prospects.md",
-   "id": "prospects-employers-orgs",
-   "kind": "prospects",
-   "section": "Employers / Orgs",
-   "title": "Employers / Orgs"
-  },
-  {
-   "file": "prospects.md",
-   "id": "prospects-other",
-   "kind": "prospects",
-   "section": "Other",
-   "title": "Other"
-  },
-  {
-   "file": "success-patterns.md",
-   "id": "success-patterns",
-   "kind": "table",
-   "title": "Success Patterns"
-  }
- ]
+  "panels": [
+    {
+      "file": "complaints-check.md",
+      "kind": "table"
+    },
+    {
+      "file": "feature-requests.md",
+      "kind": "table"
+    },
+    {
+      "file": "field-notes.md",
+      "kind": "notes"
+    },
+    {
+      "file": "hiring-needs.md",
+      "kind": "table"
+    },
+    {
+      "file": "idea.md",
+      "kind": "notes"
+    },
+    {
+      "file": "lovable-fix-checklist.md",
+      "kind": "checklist"
+    },
+    {
+      "file": "prospects.md",
+      "section": "Parents",
+      "kind": "prospects"
+    },
+    {
+      "file": "prospects.md",
+      "section": "Teachers / Tutors",
+      "kind": "prospects"
+    },
+    {
+      "file": "prospects.md",
+      "section": "Students (8+)",
+      "kind": "prospects"
+    },
+    {
+      "file": "prospects.md",
+      "section": "Adult learners",
+      "kind": "prospects"
+    },
+    {
+      "file": "prospects.md",
+      "section": "Older adults (60+)",
+      "kind": "prospects"
+    },
+    {
+      "file": "prospects.md",
+      "section": "School admins",
+      "kind": "prospects"
+    },
+    {
+      "file": "prospects.md",
+      "section": "Employers / Orgs",
+      "kind": "prospects"
+    },
+    {
+      "file": "prospects.md",
+      "section": "Other",
+      "kind": "prospects"
+    },
+    {
+      "file": "success-patterns.md",
+      "kind": "table"
+    }
+  ]
 }

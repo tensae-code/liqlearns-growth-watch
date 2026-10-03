@@ -1,11 +1,11 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-03 07:47 EDT — rotation 7 (Lovable-built website issues: SEO invisibility, accessibility failures, security-header gaps, perf auditing). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced).
+Last run: 2026-10-03 10:47 EDT — rotation 10 (general quality radar, ANY industry: subscription-cancel dark patterns, Noom $62M trial trap, FTC Genesis Tech quiz-funnel enforcement, NYC click-to-cancel rule, silent-charge dunning failures, onboarding overload, accessibility abandonment). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced).
 
 | Human task needed | Source complaint | Link | Notes | Status |
 |---|---|---|---|---|
-| _(none yet)_ | | | | |
+| Billing dispute responder: answer cancel/refund billing disputes with receipts, charge timelines, and written resolution on a fast SLA — "nearly impossible to get a refund" and unanswered cancel support (Noom's coach-based cancel went unanswered) are the lawsuit patterns | MasterClass Trustpilot reviewers ("nearly impossible to get a refund"); Noom class action (cancel-via-coach, "difficult by design") | https://ca.trustpilot.com/review/masterclass.com?page=9 and https://www.urbansplatter.com/?p=438156 | One calm human with refund authority beats a chatbot loop for billing trust | Open (pending user decision) |
 
 Statuses: logged / planned. (No "hiring" status exists — hiring is the user's call.)
 
