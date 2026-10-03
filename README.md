@@ -8,6 +8,6 @@ Hourly research lists powering LiqLearns' outreach and quality radar. Updated au
 - **feature-requests.md** — features requested in the wild (fuel for the monthly update cycle)
 - **lovable-fix-checklist.md** — Lovable-built site fix checklist
 - **hiring-needs.md** — human tasks LiqLearns will eventually need people for (needs list only — not hiring now)
-- **idea.md** — interesting takes on AI-made websites
+- **idea.md** — interesting takes on AI-made websites + any interesting idea worth stealing
 
 The LiqLearns Watch Android app reads `manifest.json` and renders every file and category automatically — new files and new prospect categories become new panels with no app update. Each item shows what was said, its link, a copyable Lovable-ready fix prompt, and a read button.

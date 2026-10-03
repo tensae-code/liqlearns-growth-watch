@@ -1,7 +1,7 @@
 # Prospects — classified outreach list
 
 Flag-only: NEVER contact, message, email, or invite anyone from this list. The user does his own outreach (Sunday grind). Classified so he knows exactly how to pitch each one — parents, teachers/tutors, students, adult learners, older adults, and admins each get a different sell. Categories stay open: new ones get added whenever the research finds a kind of person with no fitting bucket. Scope: baby to granny — full-lifespan tutoring, NOT kids-only (widened 2026-10-03).
-Last run: 2026-10-03 — first full scan (all 6 rotation areas). Brand check: no public reviews or mentions of liqlearns.com found anywhere — the site has no third-party review footprint yet.
+Last run: 2026-10-03 06:47 EDT — rotation 6 (Lifespan batch F: brain-training/memory apps, MasterClass, senior tech-literacy). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced).
 
 ## Parents
 - **Anonymous parent (Ripoff Report #1263498)** — Parent — "It took up to 5 minutes to load one page on ABC mouse... I don't know what kind of people run this website but they are either incompetent or worse malicious in their intent to scam people." — Platform: ABCmouse — https://www.ripoffreport.com/reports/abc-mouse/glendale-california-91203/abc-mouse-age-of-learning-inc-billed-in-error-billed-after-cancellation-no-refund-when-1263498 — Found: 2026-10-03
@@ -42,7 +42,8 @@ _(none yet)_
 - **Francis Howell board member (name not in report)** — School board (paraphrased) — Questioned whether the district can measure BrainPOP's direct impact on student outcomes before approving the subscription. — Platform: BrainPOP — https://citizenportal.ai/articles/6212314/missouri/school-districts/francis-howell-r-iii/Missouri/School-Districts/Francis-Howell-R-III/Board-approves-purchase-of-BrainPOP-after-heated-debate-over-content-Roberts-Rules-and-measurement — Found: 2026-10-03
 
 ## Employers / Orgs
-_(none yet — companies, schools, or groups that need to train employees/students but lack a platform/tool)_
+- **WISE & Healthy Aging** — nonprofit org — runs grant-funded digital-skills classes (computer/internet basics, scam avoidance, email/Zoom/Word) for low-income adults 50+; used a ~$100K CPUC grant to train 540 seniors; classes fill by word-of-mouth; instructor culture: "No one's an idiot in this room." Quote: seniors "feel shame about being left behind by the digital revolution." Source: https://sacramento.newsreview.com/2022/10/25/shining-a-light-on-the-digital-divide-for-seniors/ — Org prospect: trains older-adult learners at scale with grant funding; LiqLearns' lifespan vision (memory exercises, patient tutoring) could slot in. Found 2026-10-03.
+- **Cyber-Seniors / OATS–Senior Planet (AARP affiliate)** — nonprofit orgs — one-on-one coaching + a national tech-support hotline (1-920-666-1959) + Senior Planet training centers in 6 cities, all for older-adult digital literacy. 86-yo user: "I don't know what I would have done without these activities." Source: https://kffhealthnews.org/aging/calming-computer-jitters-help-for-seniors-who-arent-tech-savvy/ — Org prospect: human-coaching-first org serving the exact 60+ segment LiqLearns plans to reach. Found 2026-10-03.
 
 ## Other
 - **Prodigy petition starter (name not shown)** — Other (moderated the Prodigy wiki for 6 years) — "Prodigy bombards students with constant pop-up ads and even unskippable video ads after every battle. Only 1/3rd of playtime is actually spent learning math." — Platform: Prodigy Math — https://www.change.org/p/prodigy-education-fix-prodigy-math-game — Found: 2026-10-03

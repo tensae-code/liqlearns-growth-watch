@@ -1,7 +1,7 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-03 — first full scan (all 6 rotation areas).
+Last run: 2026-10-03 06:47 EDT — rotation 6 (Lifespan batch F: brain-training/memory apps, MasterClass, senior tech-literacy). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced).
 
 ## Must-fix / commonly missing
 - [ ] Per-page meta titles, meta descriptions, and Open Graph / social-preview tags are missing on deployed routes — shared links render with no preview. Source: https://prerender.io/blog/how-to-make-lovable-websites-seo-friendly/
@@ -15,3 +15,9 @@ Last run: 2026-10-03 — first full scan (all 6 rotation areas).
 - [ ] AI co-authored code ships ~1.7x more major issues than human-written code (CodeRabbit, Dec 2025) — keep human review on every Lovable output before it reaches kids' data or billing. Source: https://medium.com/@apeoid/you-vibe-coded-a-landing-page-now-nobody-converts-b6e423e61748
 - [ ] AI-generated code introduced security vulnerabilities in 45% of cases (Veracode 2025); XSS/log-injection failures at 86%/88% — run a security pass over auth, billing, and payment code on every ship. (Supports the server-side-only credential rule already adopted.) Source: https://www.ishir.com/blog/344522/how-do-you-clean-up-a-vibe-coded-application-before-it-goes-into-production.htm
 - [ ] If organic search matters, plan the stack early: hybrid approach (server-rendered marketing site + Lovable app layer) beats bolting SEO onto a client-rendered SPA later. Source: https://mcstarters.com/blog/lovable-seo-problems/
+
+- [ ] One-click cancel for auto-renewing subscriptions + a charge reminder before each renewal — silent auto-renew with near-impossible refunds is the #1 billing complaint pattern (MasterClass 1.9★ on Trustpilot: "nearly impossible to get a refund"; the Lumosity FTC order forced one-click cancel on the company). Source: https://ca.trustpilot.com/review/masterclass.com?page=9 and https://www.ftc.gov/business-guidance/blog/2016/01/mind-gap-what-lumosity-promised-vs-what-it-could-prove
+- [ ] Verify purchase restore actually unlocks paid content on every platform/build — "Everything else in the app is invisible to someone who sees a lock on what they paid for." (indie brain-training app shipped a broken iOS restore and ate one-star reviews). Source: https://dev.to/strobolt/three-months-after-shipping-a-brain-training-app-on-ios-alone-the-restore-bug-the-paywall-5f1m
+- [ ] Publish the free-vs-paid line on the pricing page; never move a free feature behind the paywall after launch — reviews collapsed to "was free, now paid" within two days. Source: https://dev.to/strobolt/three-months-after-shipping-a-brain-training-app-on-ios-alone-the-restore-bug-the-paywall-5f1m
+- [ ] No efficacy claims without evidence on marketing pages — no "improves memory / prevents decline" language anywhere; Lumosity paid $2M to the FTC for exactly this. Source: https://www.ftc.gov/business-guidance/blog/2016/01/mind-gap-what-lumosity-promised-vs-what-it-could-prove
+- [ ] Senior-friendly stability: no forced-flow churn, no tiny-text/password mazes; copy must treat older adults as competent adults, never condescend — "the barrier is almost never intellectual... it's that nobody ever took the time to explain it clearly, without condescension." Source: https://medium.com/@tech4grownups/the-elderly-tech-industry-is-condescending-by-design-heres-what-older-adults-actually-need-12a29e7467b8

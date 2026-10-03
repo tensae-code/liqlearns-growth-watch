@@ -1,6 +1,6 @@
-# Idea — interesting things said about AI-made websites
+# Idea — interesting takes & ideas worth stealing
 
-Interesting takes from anywhere (videos, blogs, vlogs, newsletters, posts) about AI-built / vibe-coded websites. Short quote + link + one line on why it matters for LiqLearns.
+Interesting takes from anywhere (videos, blogs, vlogs, newsletters, posts) about AI-built / vibe-coded websites — PLUS any interesting idea people put forward: product ideas, content ideas, business ideas, anything that sparks something for LiqLearns. If someone points at it and says "someone should build this" or "this would be cool", it belongs here. Short quote + link + one line on why it matters.
 Last run: 2026-10-03 — first full scan (all 6 rotation areas).
 
 - "Most educational games are still worksheets with cartoon skins. A dragon asks what 7 × 8 is, the child taps 56, confetti falls, and the product calls that engagement. The math was never the gameplay. It was a quiz gate with a budget for characters." — Yu-kai Chou (gamification/Octalysis author), LinkedIn, Sep 17 2026 — https://www.linkedin.com/pulse/why-most-learning-games-kids-still-feel-like-worksheets-yu-kai-chou-trxec — Why it matters: LiqLearns' learning battles must make the learning BE the gameplay, not a quiz gate — this is the exact trap parents are now naming.
