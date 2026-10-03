@@ -2,7 +2,7 @@
 
 The COURSE side of the watch. Not complaints — the opposite: why people love a course, a creator, a teacher. LiqLearns is building its BRAND around what people love, not just fixing what they hate.
 
-The user's brand lens (his own words): the platform is a tool — the brand is "a tutor guides you to succeed, not just teach you and leave you be." Every course should FEEL like being guided through, not lectured at.
+The user's brand lens (his own words): the platform is a tool — the brand is "a tutor guides you to succeed, not just teach you and leave you be." Every course should FEEL like being guided through, not lectured at. His quality bar (2026-10-03): LiqLearns must be good enough that users voluntarily "show their face" on video defending it — advocacy is the proof of quality.
 
 Entry format: short quote, who (credential), link, one line on what LiqLearns should steal.
 Last run: 2026-10-03 16:47 EDT — rotation 16 (course love: David Malan/CS50, Grant Sanderson/3Blue1Brown, freeCodeCamp, Ali Abdaal). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced; no action needed).
