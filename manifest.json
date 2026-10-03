@@ -1,6 +1,10 @@
 {
   "panels": [
     {
+      "file": "RESEARCH_BRIEF.md",
+      "kind": "notes"
+    },
+    {
       "file": "complaints-check.md",
       "kind": "table"
     },
