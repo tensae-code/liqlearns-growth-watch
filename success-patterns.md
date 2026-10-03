@@ -1,7 +1,7 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-03 06:47 EDT — rotation 6 (Lifespan batch F: brain-training/memory apps, MasterClass, senior tech-literacy). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced).
+Last run: 2026-10-03 07:47 EDT — rotation 7 (Lovable-built website issues: SEO invisibility, accessibility failures, security-header gaps, perf auditing). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced).
 
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
 |---|---|---|---|---|---|

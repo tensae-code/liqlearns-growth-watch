@@ -4,7 +4,7 @@ Real experiences only. The user is building deep, experience-first knowledge for
 EXPERIENCE BAR: real practitioners only — parents living it, teachers in classrooms, learning-science practitioners, managers with teams, owners running businesses. Skip shiny influencer fluff and people repeating things they only read. When in doubt, prefer the voice with scars.
 Entry format: who, their real-experience credential, what they said (quote), link, why it matters for LiqLearns/TikTok.
 Parent complaints logged here double as TikTok video topics.
-Last run: 2026-10-03 06:47 EDT — rotation 6 (Lifespan batch F: brain-training/memory apps, MasterClass, senior tech-literacy). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced).
+Last run: 2026-10-03 07:47 EDT — rotation 7 (Lovable-built website issues: SEO invisibility, accessibility failures, security-header gaps, perf auditing). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced).
 
 ## Parents on raising children
 _(none yet)_

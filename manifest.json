@@ -41,57 +41,49 @@
    "file": "prospects.md",
    "id": "prospects-parents",
    "kind": "prospects",
-   "section": "Parents",
-   "title": "Parents"
+   "title": "Prospects: Parents"
   },
   {
    "file": "prospects.md",
    "id": "prospects-teachers-tutors",
    "kind": "prospects",
-   "section": "Teachers / Tutors",
-   "title": "Teachers / Tutors"
+   "title": "Prospects: Teachers / Tutors"
   },
   {
    "file": "prospects.md",
    "id": "prospects-students-8",
    "kind": "prospects",
-   "section": "Students (8+)",
-   "title": "Students (8+)"
+   "title": "Prospects: Students (8+)"
   },
   {
    "file": "prospects.md",
    "id": "prospects-adult-learners",
    "kind": "prospects",
-   "section": "Adult learners",
-   "title": "Adult learners"
+   "title": "Prospects: Adult learners"
   },
   {
    "file": "prospects.md",
    "id": "prospects-older-adults-60",
    "kind": "prospects",
-   "section": "Older adults (60+)",
-   "title": "Older adults (60+)"
+   "title": "Prospects: Older adults (60+)"
   },
   {
    "file": "prospects.md",
    "id": "prospects-school-admins",
    "kind": "prospects",
-   "section": "School admins",
-   "title": "School admins"
+   "title": "Prospects: School admins"
   },
   {
    "file": "prospects.md",
    "id": "prospects-employers-orgs",
    "kind": "prospects",
-   "section": "Employers / Orgs",
-   "title": "Employers / Orgs"
+   "title": "Prospects: Employers / Orgs"
   },
   {
    "file": "prospects.md",
    "id": "prospects-other",
    "kind": "prospects",
-   "section": "Other",
-   "title": "Other"
+   "title": "Prospects: Other"
   },
   {
    "file": "success-patterns.md",
@@ -99,6 +91,5 @@
    "kind": "table",
    "title": "Success Patterns"
   }
- ],
- "repo": "tensae-code/liqlearns-growth-watch"
+ ]
 }
