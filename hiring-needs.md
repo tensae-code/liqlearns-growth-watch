@@ -1,7 +1,7 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-04 08:47 EDT — rotation 8 (AI-made website commentary + idea harvest: de-vibe audit skill, anti-ai-slop design tells, flatpark anti-drive-by-slop-labels stance, Hack Club AI-slop piece, The Register vibe-coded QA failures — duplicate payment paths/price mismatch, skippable permission flow, screen-reader-inaccessible forms, habchy Lovable education-platform renovation — four duplicate score engines writing one field + missing auth + reasoning gone, Hostinger/dev.to vibe-coding trust stats, TechDirt kid-built study app, CompoBuddy kid-as-QA, flarestart solo-ship). Brand check: no third-party liqlearns.com mentions (only user's own GitHub repo surfaced; no action needed).
+Last run: 2026-10-04 10:47 EDT — rotation 11 (solution-seekers & feature requests: 6 real solution-seekers incl. 2 DMV-local parents, Cuemath support/audit complaint, study.com-alternative request, dyscalculia practitioner voice). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced; no action needed).
 
 | Human task needed | Source complaint | Link | Notes | Status |
 |---|---|---|---|---|
@@ -43,3 +43,7 @@ Statuses: logged / planned. (No "hiring" status exists — hiring is the user's 
 ## New this run (2026-10-04 08:47 EDT — rotation 8)
 - Accessibility auditor (screen-reader testing): vibe-coded apps routinely ship forms that screen readers can't use (The Register: "insufficiently accessible for screen readers"; Oct 2026 study: 15/15 AI-built sites failed). Human task: screen-reader walkthrough of every LiqLearns form and kid-facing flow before launch; re-verify per release. Source: https://www.theregister.com/ai-and-ml/2026/08/22/ai-slop-is-good-for-business-if-you-know-what-youre-doing/5291382
 - Pre-launch QA click-through reviewer (billing/flow-order): verify price parity (pricing page == checkout) and that no flow step can be skipped (no jumping from signup to payment past profile creation) — the two failure modes The Register's cleanup firm found in a reviewed vibe-coded app. Source: same
+
+## New this run (2026-10-04 10:47 EDT — rotation 11)
+- Fast-SLA parent support responder (tutor-quality desk): Cuemath parent waited over a week for a reply about a distracted tutor, then was told the internal audit found "100% engagement." Human task: reply to tutor-quality complaints within 24h, acknowledge the parent's evidence (never contradict it with a self-audit), and resolve with a real outcome (session credit, tutor review). Source: https://www.instagram.com/p/Db6BT4NAV5f/
+- Independent session QA auditor (not the tutor, not their manager): human who spot-checks a sample of recorded sessions for engagement quality, separate from the support team so "the audit can't exonerate itself." Source: same
