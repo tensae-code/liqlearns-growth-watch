@@ -29,10 +29,6 @@
       "kind": "checklist"
     },
     {
-      "file": "success-patterns.md",
-      "kind": "table"
-    },
-    {
       "file": "prospects.md",
       "section": "Parents",
       "kind": "prospects"
@@ -71,6 +67,10 @@
       "file": "prospects.md",
       "section": "Other",
       "kind": "prospects"
+    },
+    {
+      "file": "success-patterns.md",
+      "kind": "table"
     }
   ]
 }
