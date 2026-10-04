@@ -1,7 +1,7 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-04 08:47 EDT — rotation 8 (AI-made website commentary + idea harvest: de-vibe audit skill, anti-ai-slop design tells, flatpark anti-drive-by-slop-labels stance, Hack Club AI-slop piece, The Register vibe-coded QA failures — duplicate payment paths/price mismatch, skippable permission flow, screen-reader-inaccessible forms, habchy Lovable education-platform renovation — four duplicate score engines writing one field + missing auth + reasoning gone, Hostinger/dev.to vibe-coding trust stats, TechDirt kid-built study app, CompoBuddy kid-as-QA, flarestart solo-ship). Brand check: no third-party liqlearns.com mentions (only user's own GitHub repo surfaced; no action needed).
+Last run: 2026-10-04 17:47 EDT — rotation 18 (long tail: deprecation discipline, honest live-vs-recorded labeling, refund-as-delivery tracking, no silent plan-value changes). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced; no action needed).
 
 ## Must-fix / commonly missing
 - [ ] Per-page meta titles, meta descriptions, and Open Graph / social-preview tags are missing on deployed routes — shared links render with no preview. Source: https://prerender.io/blog/how-to-make-lovable-websites-seo-friendly/
@@ -120,3 +120,9 @@ Last run: 2026-10-04 08:47 EDT — rotation 8 (AI-made website commentary + idea
 
 ## New this run (2026-10-04 13:50 EDT — rotation 13, teaching & learning science)
 - [ ] Leaderboard anti-churn design: never ship a raw-rank-only leaderboard — add progress-based tracking, reward-improvement formats, rotating team boards, and periodic resets; research shows bottom-ranked students silently lose motivation on raw leaderboards. Source: https://www.engageli.com/blog/learning-science-of-gamification
+
+## New this run (2026-10-04 17:47 EDT — rotation 18, long tail)
+- [ ] Deprecation discipline: every retired feature or changed plan ships with an in-app banner, a human-written explanation, and a migration path BEFORE it goes away — never ghost users like GitHub Classroom did. Source: https://github.com/orgs/community/discussions/196615
+- [ ] Honest content labeling: never label recorded/pre-recorded content as "live" — consumer courts order refunds for exactly this gap. Source: https://madhyamamonline.com/india/telangana-consumer-forum-orders-byjus-to-refund-71000-for-failing-to-conduct-classes-1483351
+- [ ] Track every refund like a delivery (promised → sent → received, to the original payment method) — a promised refund that pays out ₹1 is a bigger trust disaster than no refund. Source: https://www.outlookbusiness.com/corporate/byjus-ordered-to-pay-rs-95k-for-failing-to-deliver-curriculum-material-report
+- [ ] No silent plan-value changes: any reduction in plan limits or swap of the AI coach model ships with an advance in-app notice and a changelog entry. Source: https://dev.to/theaidownside/gotten-lazy-a-week-of-users-watching-their-ai-do-less-3494

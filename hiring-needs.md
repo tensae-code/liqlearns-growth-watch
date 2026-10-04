@@ -1,7 +1,7 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-04 10:47 EDT — rotation 11 (solution-seekers & feature requests: 6 real solution-seekers incl. 2 DMV-local parents, Cuemath support/audit complaint, study.com-alternative request, dyscalculia practitioner voice). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced; no action needed).
+Last run: 2026-10-04 17:47 EDT — rotation 18 (long tail: pre-match tutor competence verifier — Paper tutors told to Google through sessions). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced; no action needed).
 
 | Human task needed | Source complaint | Link | Notes | Status |
 |---|---|---|---|---|
@@ -47,3 +47,5 @@ Statuses: logged / planned. (No "hiring" status exists — hiring is the user's 
 ## New this run (2026-10-04 10:47 EDT — rotation 11)
 - Fast-SLA parent support responder (tutor-quality desk): Cuemath parent waited over a week for a reply about a distracted tutor, then was told the internal audit found "100% engagement." Human task: reply to tutor-quality complaints within 24h, acknowledge the parent's evidence (never contradict it with a self-audit), and resolve with a real outcome (session credit, tutor review). Source: https://www.instagram.com/p/Db6BT4NAV5f/
 - Independent session QA auditor (not the tutor, not their manager): human who spot-checks a sample of recorded sessions for engagement quality, separate from the support team so "the audit can't exonerate itself." Source: same
+
+- **Pre-match tutor competence verifier** — what the person would do: verify each tutor can genuinely handle the subjects they're matched on (subject quizzes, sample sessions) so a learner is never paired with a tutor who has to Google their way through; flag repeat student-transfers as a matching-quality signal. Source complaint: Paper — tutors matched to subjects they don't know, told to "Google their way through sessions"; a student waited 45 minutes only to be transferred (https://www.chalkbeat.org/2023/7/17/23795007/paper-online-tutoring-often-fails-students/). Notes: this is PRE-match, distinct from the existing independent session-QA auditor — it stops the bad match from ever happening. Found 2026-10-04. Status: Open (pending user decision).
