@@ -117,3 +117,6 @@ Last run: 2026-10-04 08:47 EDT — rotation 8 (AI-made website commentary + idea
 - [ ] Keep a decision/reasoning log outside the code: commit-message and PR-thread-style notes for WHY each feature/engine exists — the Lovable renovation case was readable but unfixable because no reasoning was recorded. Source: https://www.habchy.dev/writing/renovating-a-vibe-coded-app
 - [ ] de-vibe audit before ship: no committed .env, no wildcard CORS, no client-side-only auth, no empty catches, no console.log spam, no tautological tests. Sources: https://github.com/ucsandman/claude-skills/blob/HEAD/de-vibe/SKILL.md
 - [ ] Anti-slop design pass: no fake testimonials, no fake logo walls with grayscale FAANG marks, no default indigo-gradient/Inter/shadcn-default aesthetic, no generic "Elevate your workflow" copy — parents spot machine-made instantly. Source: https://github.com/themaksat/monaco/blob/HEAD/.cursor/skills/anti-ai-slop/SKILL.md
+
+## New this run (2026-10-04 13:50 EDT — rotation 13, teaching & learning science)
+- [ ] Leaderboard anti-churn design: never ship a raw-rank-only leaderboard — add progress-based tracking, reward-improvement formats, rotating team boards, and periodic resets; research shows bottom-ranked students silently lose motivation on raw leaderboards. Source: https://www.engageli.com/blog/learning-science-of-gamification
