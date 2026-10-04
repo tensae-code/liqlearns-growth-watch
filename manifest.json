@@ -1,6 +1,10 @@
 {
   "panels": [
     {
+      "file": "textbooks.tsv",
+      "kind": "textbooks"
+    },
+    {
       "file": "complaints-check.md",
       "kind": "table"
     },
