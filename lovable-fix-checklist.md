@@ -1,7 +1,7 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-05 20:47 EDT — rotation 20 (schools & curriculums worldwide: Singapore Math CPA/bar-modeling mastery, Japan lesson-study teacher circles, Vandamme Academy no-homework parent loyalty, Ethiopia TVET reform needs continuous teacher PD; complaints: skipping pictorial scaffolds, one-mode curriculums, book-stack nickel-diming, reform without teacher training, homework SES gap; practitioner voices: Japanese teacher, Singaporean parent, homeschool mom, Ethiopian adult-ed researchers). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced; no action needed).
+Last run: 2026-10-05 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool — two new checklist items: plain-language data-collection/transparency page + customer audit view; parent spend dashboard with caps/alerts). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced; no action needed).
 
 ## Must-fix / commonly missing
 - [ ] Per-page meta titles, meta descriptions, and Open Graph / social-preview tags are missing on deployed routes — shared links render with no preview. Source: https://prerender.io/blog/how-to-make-lovable-websites-seo-friendly/
@@ -143,3 +143,8 @@ Last run: 2026-10-05 20:47 EDT — rotation 20 (schools & curriculums worldwide:
 ## New this run (2026-10-05 20:47 EDT — rotation 20, schools & curriculums worldwide)
 - [ ] Lock scaffold steps in multi-stage lessons: never make "skip ahead" the default path — Singapore math parents report that skipping the pictorial step "because the beans feel babyish" silently kills the later bar-model skill; verify each stage (concrete → pictorial → abstract) before unlocking the next. Source: https://webflow.outschool.com/homeschool/what-is-singapore-math
 - [ ] Guided practice must not assume a parent-tutor at home: assigned work that needs home supervision widens the SES gap (homework "helps or hurts depending on whether there is someone at home who makes sure the child does correct practice") — every practice loop must be self-contained with the guide/Liq checking the work. Source: https://news.ycombinator.com/item?id=13822577
+
+
+## New this run (2026-10-05 22:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
+- [ ] Publish a plain-language data-collection page: what the app collects, which SDKs run, why, and how long AI-chat memory is retained — plus a customer data-export/audit view. "Free, no ads" halo dies when Google Play's data-safety section says the app "may collect personal information and app activity"; classroom apps already leaked student data via hidden SDKs and Utah H.B. 55 (July 2026) gives schools audit rights with forced contract termination. Sources: https://editorialge.com/how-to-choose-learning-apps-for-kids/ and https://thelearningstandard.org/news/classroom-apps-leak-student-data-spurring-new-utah-privacy-law
+- [ ] Parent spend dashboard with caps and alerts: a r/homeschool parent reports "I spent an insane amount of money on Outschool" — per-class/per-currency spending accumulates invisibly. The paying adult must always see totals across every currency (XP≠Aura≠Coins≠Credits≠Rings≠cash) and get alerts before, not after. Source: https://OpenEd.co/tools/outschool
