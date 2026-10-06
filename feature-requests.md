@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 06:47 EDT — rotation 6 (lifespan batch F: brain-training / memory apps, senior tech-literacy, MasterClass-style life/career-skill platforms) — 1 new item: Elevate user asking for more free games in the free tier (free-line fairness signal). Brand check: no third-party liqlearns.com mentions (open-web search returned only the user's own tensae-code/liqlearns_admin GitHub repo; social search across IG/Threads/FB returned zero posts).
+Last run: 2026-10-06 08:47 EDT — rotation 8 (AI-website commentary + idea harvest) — 1 new item: parent-visible AI-learning rubrics (critical thinking, creativity, communication, collaboration, AI literacy; emerging→developing→excelling) from Curiosities.ai Ace launch. Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos; IG/Threads/FB zero).
 
 ## New this run (2026-10-06 06:47 EDT — rotation 6 (lifespan batch F: Elevate/Peak brain apps, Senior Planet senior tech-literacy, MasterClass-style platforms))
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
@@ -126,3 +126,8 @@ Last run: 2026-10-06 06:47 EDT — rotation 6 (lifespan batch F: brain-training 
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
 |---|---|---|---|---|---|
 | "My kids love this! I wish they had some ELA concepts." — single-platform, multi-subject coverage (Prodigy) | BusyBoard, 2nd/3rd-grade teacher (proteacher.net) | https://proteacher.net/discussions/threads/prodigy-math-game.555412/ | Teachers who trust one platform want to run it across subjects instead of juggling vendors — multi-subject depth inside one account is a renewal lever for schools | LiqLearns is all-ages/all-subject by design (career + life skills included) — keep subject breadth visible at signup so teachers see it before they ask | already-have |
+
+## New this run (2026-10-06 08:47 EDT — rotation 8, AI-website commentary + idea harvest)
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| Parent-visible AI-learning rubrics: measurable dimensions of what AI interaction develops — Critical Thinking, Creativity, Communication, Collaboration, AI Literacy — with "emerging / developing / excelling" levels per child (Curiosities.ai's Ace, launched Oct 1, 2026) | Curiosities.ai (EIN Presswire launch) | https://tpp.einnews.com/pr_news/945978527/ace-app-adds-new-rubrics-to-measure-how-kids-think-learn-with-ai | Parents fear AI interaction makes kids dependent — rubrics convert invisible sessions into visible development, the exact trust artifact skeptical parents need to see; also gives LiqLearns' AI coach a grading lens beyond right/wrong answers | YES — Liq session rubrics (think/ask-back/teach-back quality, not just answers) shown in the parent dashboard | roadmap |
