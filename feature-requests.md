@@ -1,7 +1,13 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 02:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool — one new request: live group classes bundled into the flat subscription. Already-logged batch-B request themes skipped (none new)). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced; no action needed).
+Last run: 2026-10-06 03:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — one new tracked direction: ClassDojo shipping an AI assistant for teachers + teacher–student messaging (grades 6–12) + dedicated middle/high school interface in 2026 (competitor feature-intel, not a user request). Already-logged batch-C request themes skipped (Adventure Academy visible structured learning path, Duolingo ABC parent mastery overview + desktop version, family accounts + tiered chat controls). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code/liqlearns_admin GitHub repo surfaced; no action needed).
+
+## New this run (2026-10-06 03:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| AI assistant for teachers + teacher–student messaging (grades 6–12) + a dedicated middle/high school interface — shipping "Coming in 2026" (ClassDojo, from their own districts one-pager, Sep 2025) | ClassDojo product direction (not a user request — competitor feature-intel) | https://storage.ghost.io/c/60/33/603357fd-e7ad-42b6-b1ea-9f3a8ce053ca/content/files/2025/09/ClassDojo_Districts_OnePager_Evergreen_August--1-.pdf | A top competitor is building the teacher-side AI copilot and extending K-5 tooling up into middle/high school; Liq's AI coach is the learner-side equivalent — a teacher-side assistant is the natural extension to track | roadmap (watch ClassDojo's 2026 launch; consider a tutor/teacher-side AI assistant alongside the learner-side Liq coach) | unknown |
+
 
 ## New this run (2026-10-06 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
