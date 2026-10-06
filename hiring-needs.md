@@ -1,7 +1,13 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-06 16:47 EDT — rotation 16 (course love) — no additions this run (rotation feeds course-love.md only). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalike junk).
+Last run: 2026-10-06 18:47 EDT — rotation 18 (long tail) — 2 new rows: Privacy/SDK compliance reviewer (IDAC kids-app takedowns); AI-lesson content review gatekeeper (TPT AI-slop flood). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto).
+
+## New this run (2026-10-06 18:47 EDT — rotation 18, long tail: forgotten/regional/beta/AI-slop apps)
+| Human task needed | Source complaint | Link | Notes | Status |
+|---|---|---|---|---|
+| Privacy/SDK compliance reviewer: audit every third-party SDK bundled with liqlearns.com and the app against the kid-safe privacy promise; verify no device IDs/AAIDs leak to analytics or ad SDKs; write a plain-language privacy statement; re-audit after every dependency change | Google Play pulled 3 kids' apps (20M+ downloads) over IDAC-found SDK data collection | https://mobilityarena.com/google-takes-down-three-popular-childrens-apps-o/ | One wrong SDK (Umeng/Unity/Appodeal pattern) can get the app removed from the store and destroy the kid-safe brand. | Open (pending user decision) |
+| Content review gatekeeper: human review pass over AI-generated lesson content (text, graphics, facts) before publish — catch obvious errors, slipshod graphics, unsafe cues | AI-slop flood on Teachers Pay Teachers (Chalkbeat, Aug 2026) and YouTube Kids (Fairplay, Apr 2026) | https://www.chalkbeat.org/2026/08/03/ai-slop-on-teachers-curriculum-marketplace/ | The user's build principle is one-time AI generation of permanent content — a publish-time human gate is the single highest-leverage trust control. | Open (pending user decision) |
 
 | Human task needed | Source complaint | Link | Notes | Status |
 |---|---|---|---|---|
