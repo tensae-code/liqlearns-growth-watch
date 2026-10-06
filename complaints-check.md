@@ -1,7 +1,7 @@
 # Complaints vs LiqLearns — "did I make the same mistake?" check
 
 
-Last run: 2026-10-06 00:47 EDT — rotation 20 (schools & curriculums worldwide — fresh angles: South Korea AI-textbook answer-engine + rushed rollout collapse; Kenya curriculum reputation set by implementation outliers, not design. Already-logged rotation-20 complaints (Singapore Math scaffold-skipping, one-mode pedagogy, book-stack fragmentation, Ethiopia TVET one-time training, Kenya CBC parent-homework burden) skipped). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced; no action needed).
+Last run: 2026-10-06 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL — no new complaints; already-logged batch-A themes skipped (Prodigy upsell/FTC, pay-to-win gear, no-teaching/guess, SmartScore punitive asymmetry, IXL quiz-not-teach, IXL student-data allegation, ABCmouse cancel-maze, trial-dunning patterns)). Brand check: no third-party liqlearns.com mentions (search returned only spam PDF-junk; no action needed).
 
 | Complaint (platform) | Who said it | Link | Same mistake in LiqLearns? | Fix via (Lovable / Human) | Status |
 |---|---|---|---|---|---|

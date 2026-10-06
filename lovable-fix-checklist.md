@@ -1,7 +1,7 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-06 00:47 EDT — rotation 20 (schools & curriculums worldwide — fresh angles listed in this run's sections; already-logged rotation-20 themes skipped). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced; no action needed).
+Last run: 2026-10-06 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL — one new item: mute-background-music fix. Already-logged batch-A fix themes skipped (cancel maze/one-click cancel, trial dunning, plan-change proration, billing-layer cancel)). Brand check: no third-party liqlearns.com mentions (search returned only spam PDF-junk; no action needed).
 
 ## Must-fix / commonly missing
 - [ ] Per-page meta titles, meta descriptions, and Open Graph / social-preview tags are missing on deployed routes — shared links render with no preview. Source: https://prerender.io/blog/how-to-make-lovable-websites-seo-friendly/
@@ -154,3 +154,6 @@ Last run: 2026-10-06 00:47 EDT — rotation 20 (schools & curriculums worldwide 
 ## New this run (2026-10-06 00:47 EDT — rotation 20, schools & curriculums worldwide)
 - [ ] AI tutor answer-vending guardrail: Liq's system prompt must enforce ask-back + teach-back on every session — Korea's national AI textbook program collapsed in 4 months partly because "AI short-circuits the learning process... It simply gives you the answers." Never ship AI features on an ambitious deadline without piloting gates; the national audit found "serious procedural flaws from outset" where validation was skipped. Sources: https://www.youngpostclub.com/yp/news/asia/article/3368461/south-korea-wants-free-unlimited-ai-society-ready and https://www.webpronews.com/south-korea-axes-850m-ai-textbook-program-after-4-months-of-issues/
 - [ ] Mandatory human-review thresholds on AI-driven learning paths: the AI proposes adjustments, a human tutor approves them before the learner's path changes (Korea ministry design). Source: https://www.franvia.com/2026/04/south-korea-national-ai-digital-textbooks-2026.html
+
+## New this run (2026-10-06 01:47 EDT — rotation 1, competitor batch A: Prodigy / ABCmouse / IXL)
+- [ ] Every background-music / ambient-audio element must be user-mutable — and never louder than spoken prompts: a Prodigy classroom teacher couldn't mute the background music while kids listened to instructions ("my kiddos struggle with the hearing of the prompts and help because of the background music"). Give every audio layer (music, SFX, narration) its own volume/mute control; spoken guidance must duck or pause the music. Source: https://proteacher.net/discussions/threads/prodigy-math-game.555412/

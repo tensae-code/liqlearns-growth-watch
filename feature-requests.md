@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 00:47 EDT — rotation 20 (schools & curriculums worldwide — fresh angles listed in this run's sections; already-logged rotation-20 themes skipped). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced; no action needed).
+Last run: 2026-10-06 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL — one new request: "wish they had ELA concepts" multi-subject wish. Already-logged batch-A request themes skipped). Brand check: no third-party liqlearns.com mentions (search returned only spam PDF-junk; no action needed).
 
 ## New this run (2026-10-05 17:47 EDT — rotation 17, new tools radar)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
@@ -103,3 +103,8 @@ Last run: 2026-10-06 00:47 EDT — rotation 20 (schools & curriculums worldwide 
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
 |---|---|---|---|---|---|
 | Mandatory human review thresholds: Korea's AI-textbook model was built with cases where a student's AI-generated learning path "must be reviewed and approved by a teacher before the system adjusts further" — AI proposes, human disposes | Korea Ministry of Education (built into the AI-DTB design), via franvia analysis (Apr 2026) | https://www.franvia.com/2026/04/south-korea-national-ai-digital-textbooks-2026.html | This is the governance version of prompt-never-perform: Liq's AI coach can suggest path changes, but a human tutor approves them. It converts the AI from an authority into an assistant — and it's the trust artifact skeptical parents need to see | roadmap | roadmap |
+
+## New this run (2026-10-06 01:47 EDT — rotation 1, competitor batch A: Prodigy / ABCmouse / IXL)
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| "My kids love this! I wish they had some ELA concepts." — single-platform, multi-subject coverage (Prodigy) | BusyBoard, 2nd/3rd-grade teacher (proteacher.net) | https://proteacher.net/discussions/threads/prodigy-math-game.555412/ | Teachers who trust one platform want to run it across subjects instead of juggling vendors — multi-subject depth inside one account is a renewal lever for schools | LiqLearns is all-ages/all-subject by design (career + life skills included) — keep subject breadth visible at signup so teachers see it before they ask | already-have |
