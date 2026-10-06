@@ -1,7 +1,12 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 11:47 EDT — rotation 11 (solution-seekers & feature requests) — 1 new pattern: diagnostic-first trial (Mr. Test Prep's free two-hour diagnostic session — plan begins with evidence, not a paywall). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repo; lookalike junk Liquid Learning/Liqvid only).
+Last run: 2026-10-06 12:47 EDT — rotation 12 (parenting voices) — 1 new pattern: paired read-and-check practice loop (Gerry's "read 3–4 pages, I quiz, re-read if needed, then I read" homework technique — the tutor-until-understood loop in the wild). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repo; lookalike junk Liquid Learning/Liqvid only).
+
+## New this run (2026-10-06 12:47 EDT — rotation 12 (parenting voices))
+| What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
+|---|---|---|---|---|---|
+| Paired read-and-check loop: the learner reads 3–4 pages, the helper asks a couple of questions, anything forgotten gets RE-READ together, then the helper models by reading 2–3 pages — attempt → check → repair → model, repeated until it sticks (a great-grandfather's nightly homework method with his ADHD great-grandson; boy now making good grades) | Gerry, great-grandfather raising great-grandson (GrandKidsMatter) | https://grandkidsmatter.org/hot-topics/healthy-relationships/great-grandparents-still-important-work/ | Each loop closes with a repaired understanding instead of an uncorrected mistake — the learner's confidence compounds because nothing half-learned is ever left behind; it's the "tutor until understood" contract as a lived habit, and it works precisely because it's patient, repetitive, and personal | YES — bake the loop into lesson structure: every reading/activity segment ends with an embedded check, and a missed check re-opens the segment (not just marks it wrong); the AI coach "Liq" can play the helper role, and the lesson pacing should allow re-reading without penalty — this directly answers the known "No Content Yet"/empty-shell failure mode by never letting a learner walk away half-fed | can-implement |
 
 ## New this run (2026-10-06 11:47 EDT — rotation 11 (solution-seekers & feature requests))
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
