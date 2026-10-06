@@ -1,7 +1,14 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 03:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — one new tracked direction: ClassDojo shipping an AI assistant for teachers + teacher–student messaging (grades 6–12) + dedicated middle/high school interface in 2026 (competitor feature-intel, not a user request). Already-logged batch-C request themes skipped (Adventure Academy visible structured learning path, Duolingo ABC parent mastery overview + desktop version, family accounts + tiered chat controls). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code/liqlearns_admin GitHub repo surfaced; no action needed).
+Last run: 2026-10-06 06:47 EDT — rotation 6 (lifespan batch F: brain-training / memory apps, senior tech-literacy, MasterClass-style life/career-skill platforms) — 1 new item: Elevate user asking for more free games in the free tier (free-line fairness signal). Brand check: no third-party liqlearns.com mentions (open-web search returned only the user's own tensae-code/liqlearns_admin GitHub repo; social search across IG/Threads/FB returned zero posts).
+
+## New this run (2026-10-06 06:47 EDT — rotation 6 (lifespan batch F: Elevate/Peak brain apps, Senior Planet senior tech-literacy, MasterClass-style platforms))
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| More free content in the free tier: "Making the 2 extra games in the training available to everyone who has no subscription" + "Some more free games! (Maybe 1 or 2 for the free version)" — the same reviewer calls the current free tier stingy (Elevate) | Elevate reviewer (ComplaintsBoard) | https://www.complaintsboard.com/elevate-brain-training-games-b150100 | Free-tier generosity is a fairness signal; the indie-dev lesson from this rotation's reading is that the free line must be decided at launch and never moved backwards — reviewers collapse to "was free, now paid" overnight when it moves | roadmap (define LiqLearns' free-tier content line explicitly at launch: which lessons/games stay free forever, stated on the pricing page) | unknown |
+
+
 
 ## New this run (2026-10-06 03:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
