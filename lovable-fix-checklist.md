@@ -1,7 +1,7 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-06 10:47 EDT — rotation 10 (general quality radar) — 3 new checklist items: no accessibility-overlay-widget shortcut; release-build test ritual (Apple rejection playbook); listing/screenshots must match the built product. Brand check: no third-party liqlearns.com mentions (exact-domain search returned only lookalike junk).
+Last run: 2026-10-06 16:47 EDT — rotation 16 (course love) — no additions this run (rotation feeds course-love.md only). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalike junk).
 
 ## New this run (2026-10-06 10:47 EDT — rotation 10, general quality radar)
 - [ ] NEVER install an accessibility overlay widget and call the site done — 2026 serial ADA filers specifically target sites where the widget is present but keyboard users are still trapped and form labels still hidden from screen readers ("we have a widget" is not the same as "we are accessible"); Fashion Nova paid $5.15M after five years of litigation and the DOJ opposed its settlement because the required fixes were generic unenforceable language. Verify with keyboard-only navigation and a real screen-reader pass by hand. Sources: https://testpros.com/accessibility/web-accessibility-lawsuit-statistics/ and https://www.claimdepot.com/cases/groupon-class-action-says-website-is-inaccessible-to-blind-shoppers

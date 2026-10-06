@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 11:47 EDT — rotation 11 (solution-seekers & feature requests) — 3 new items: parent-set weekly focus topics + shy-kid suggestion bubbles (heybachu parent-built AI tutor), SOP↔training single source of truth with read-confirmation and role-based assignment (Waybook small-business buyer criteria). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo; lookalike junk Liquid Learning/Liqvid only).
+Last run: 2026-10-06 16:47 EDT — rotation 16 (course love) — no additions this run (rotation feeds course-love.md only). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalike junk).
 
 ## New this run (2026-10-06 11:47 EDT — rotation 11 (solution-seekers & feature requests))
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |

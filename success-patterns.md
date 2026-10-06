@@ -1,7 +1,7 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 12:47 EDT — rotation 12 (parenting voices) — 1 new pattern: paired read-and-check practice loop (Gerry's "read 3–4 pages, I quiz, re-read if needed, then I read" homework technique — the tutor-until-understood loop in the wild). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repo; lookalike junk Liquid Learning/Liqvid only).
+Last run: 2026-10-06 16:47 EDT — rotation 16 (course love) — no additions this run (rotation feeds course-love.md only). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalike junk).
 
 ## New this run (2026-10-06 12:47 EDT — rotation 12 (parenting voices))
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |

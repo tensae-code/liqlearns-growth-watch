@@ -1,7 +1,7 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-06 10:47 EDT — rotation 10 (general quality radar) — 2 new hiring needs: accessibility compliance owner (Pearson EEOC + ADA lawsuit wave; distinct from QA tester), account-security/incident response owner (unitQ 555K login + 220K fraud complaints). Brand check: no third-party liqlearns.com mentions.
+Last run: 2026-10-06 16:47 EDT — rotation 16 (course love) — no additions this run (rotation feeds course-love.md only). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalike junk).
 
 | Human task needed | Source complaint | Link | Notes | Status |
 |---|---|---|---|---|
