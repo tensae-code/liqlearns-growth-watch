@@ -1,7 +1,12 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL — one new request: "wish they had ELA concepts" multi-subject wish. Already-logged batch-A request themes skipped). Brand check: no third-party liqlearns.com mentions (search returned only spam PDF-junk; no action needed).
+Last run: 2026-10-06 02:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool — one new request: live group classes bundled into the flat subscription. Already-logged batch-B request themes skipped (none new)). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced; no action needed).
+
+## New this run (2026-10-06 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| Live group-style classes bundled into the flat subscription, not sold separately: SplashLearn now bundles "Live Classes" into its regular subscription alongside self-paced games — per the Nibble guide this puts it "in the middle of the market" for value for money (SplashLearn) | nibble-app.com 2026 pricing guide (platform feature, sourced from launch/guides coverage) | https://nibble-app.com/blog/splashlearn-pricing-cost | Buyers compare value per dollar, not feature lists: a subscription that visibly includes a live human each month beats a pile of self-paced content at the same price. LiqLearns' tutor-guided brand should make live group classes a subscription perk, not a separate upsell — it turns "AI app" into "real guides included" | YES — roadmap: pilot live group classes as a subscription tier perk; market the human, not just the content | roadmap |
 
 ## New this run (2026-10-05 17:47 EDT — rotation 17, new tools radar)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
