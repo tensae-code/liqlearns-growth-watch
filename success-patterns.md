@@ -1,7 +1,12 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 08:47 EDT — rotation 8 (AI-website commentary + idea harvest) — 3 new patterns: StorySifter parent approval gate (safety woven into workflow), Wild Zebra persistent learning tree (mastery/gaps/next vs stateless chatbots), Sparkli pedagogy-first hiring (PhD ed-science + teacher as first hires). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos; IG/Threads/FB zero).
+Last run: 2026-10-06 11:47 EDT — rotation 11 (solution-seekers & feature requests) — 1 new pattern: diagnostic-first trial (Mr. Test Prep's free two-hour diagnostic session — plan begins with evidence, not a paywall). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repo; lookalike junk Liquid Learning/Liqvid only).
+
+## New this run (2026-10-06 11:47 EDT — rotation 11 (solution-seekers & feature requests))
+| What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
+|---|---|---|---|---|---|
+| Diagnostic-first trial: the intake is a free two-hour trial session built around diagnostic work — "a useful plan should begin with evidence" — instead of placing the student into a predetermined curriculum behind a paywall (Mr. Test Prep) | Romano, test-prep tutor, ~30 years, 4,000+ students | https://kxmbtv.marketminute.com/article/247pressrelease-2026-9-19-seven-questions-parents-should-ask-before-hiring-an-sat-or-act-tutor-according-to-mr-test-prep | The buyer leaves the trial with a PLAN, not just a pitch — evidence-of-understanding converts where feature tours don't; it also sets the baseline that makes later progress visible (retention feeds on measured gains) | YES — LiqLearns intake: free diagnostic session → visible gap analysis → personal plan presented before any payment; pairs with the planned grade-declaration routing | can-implement |
 
 ## New this run (2026-10-06 06:47 EDT — rotation 6 (lifespan batch F: Elevate/Peak brain apps, Senior Planet senior tech-literacy, MasterClass-style platforms))
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
