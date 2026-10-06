@@ -1,7 +1,7 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-05 19:47 EDT - rotation 19 (APKs and software: AnkiDroid onboarding/account-wall/settings complaints, ad-stuffed flashcard APKs, TutorCruncher hidden invoice fees + scale pricing, Teachworks reminders + inactive-student gap, Knowt Quizlet import, F-Droid client UX decay, Zutor solo-tutor gap, Google Play donation-link enforcement on AnkiDroid). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced; no action needed).
+Last run: 2026-10-05 20:47 EDT — rotation 20 (schools & curriculums worldwide: Singapore Math CPA/bar-modeling mastery, Japan lesson-study teacher circles, Vandamme Academy no-homework parent loyalty, Ethiopia TVET reform needs continuous teacher PD; complaints: skipping pictorial scaffolds, one-mode curriculums, book-stack nickel-diming, reform without teacher training, homework SES gap; practitioner voices: Japanese teacher, Singaporean parent, homeschool mom, Ethiopian adult-ed researchers). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced; no action needed).
 
 ## Must-fix / commonly missing
 - [ ] Per-page meta titles, meta descriptions, and Open Graph / social-preview tags are missing on deployed routes — shared links render with no preview. Source: https://prerender.io/blog/how-to-make-lovable-websites-seo-friendly/
@@ -139,3 +139,7 @@ Last run: 2026-10-05 19:47 EDT - rotation 19 (APKs and software: AnkiDroid onboa
 - [ ] Ad-density cap on any free tier: ads must never block the learning loop — "Cannot even use for a minute without coming across tons of ads" is how learning apps die at 230K downloads. Source: https://www.AppBrain.com/app/flash-card%EF%BC%8Dlearn-play-repeat/com.flashcards.learnlanguage.education
 - [ ] Disclose every fee line item at signup: no percentage skims discovered on invoices later — TutorCruncher's hidden per-invoice fee turned a happy reviewer into a pricing-trust complaint. Source: https://ie.trustpilot.com/review/tutorcruncher.com?page=3
 - [ ] Mobile parity for core flows: don't ship a desktop-grade product with a thin mobile wrapper — the parent/tutor flows that drive retention happen on phones. Source: https://www.softwareworld.co/software/tutorcruncher-reviews/
+
+## New this run (2026-10-05 20:47 EDT — rotation 20, schools & curriculums worldwide)
+- [ ] Lock scaffold steps in multi-stage lessons: never make "skip ahead" the default path — Singapore math parents report that skipping the pictorial step "because the beans feel babyish" silently kills the later bar-model skill; verify each stage (concrete → pictorial → abstract) before unlocking the next. Source: https://webflow.outschool.com/homeschool/what-is-singapore-math
+- [ ] Guided practice must not assume a parent-tutor at home: assigned work that needs home supervision widens the SES gap (homework "helps or hurts depending on whether there is someone at home who makes sure the child does correct practice") — every practice loop must be self-contained with the guide/Liq checking the work. Source: https://news.ycombinator.com/item?id=13822577
