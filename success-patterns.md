@@ -1,7 +1,7 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-05 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool — one new success pattern: class recordings as parent-trust retention; prior batch-B wins (ratings-before-purchase, interest-led variety, creator autonomy, instant diagnostics) already logged). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced; no action needed).
+Last run: 2026-10-05 23:47 EDT — rotation 3 (competitor batch C: ClassDojo, Duolingo ABC/Math, BrainPOP, Adventure Academy — one new success pattern: Duolingo Math weakness-loop personalization. Already-logged batch-C wins skipped). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced; no action needed).
 
 ## New this run (2026-10-05 17:47 EDT — rotation 17, new tools radar)
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
@@ -149,3 +149,7 @@ Last run: 2026-10-05 22:47 EDT — rotation 2 (competitor batch B: SplashLearn /
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
 |---|---|---|---|---|---
 | Verifiable quality through recordings: "All classes are recorded, which assures quality within Outschool and also allows parents to request class recordings" — parents enroll because they know they can check what actually happened in the session | Outschool teacher (vocal.media, teacher's own experience) | https://vocal.media/education/outschool-online-classes | Retention = verifiable accountability: skeptical parents become repeat buyers when they can see the session, not just the pitch; recordings also keep teachers honest without a supervisor in the room | YES — session transcripts/recordings viewable by parents in the dashboard (with learner consent); doubles as quality-evidence for the brand | can-implement |
+## New this run (2026-10-05 23:47 EDT — rotation 3, competitor batch C)
+| What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
+|---|---|---|---|---|---|
+| Weakness-loop personalization: ML detects a weak spot in the learner's understanding and re-presents those same problems until the learner can solve them (Duolingo Math) | The 74 / Duolingo engineer Siegel (article Oct 2025) | https://www.the74million.org/article/duolingo-the-language-learning-app-giant-wants-to-teach-kids-math/ | Learners feel the app KNOWS where they struggle — "guide until you understand" in product form. Targeted repetition of weak spots is more motivating than re-doing everything. | YES — drills/battles should carry a weakness-loop: miss a concept, it returns until mastered. Fits the tutor-guided brand exactly. | can-implement |
