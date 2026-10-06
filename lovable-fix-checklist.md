@@ -1,7 +1,7 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-05 23:47 EDT — rotation 3 (competitor batch C: ClassDojo, Duolingo ABC/Math, BrainPOP, Adventure Academy — one new checklist item: cancel must kill the subscription at the payment processor; reconcile orphaned subscriptions. Already-logged batch-C items skipped). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced; no action needed).
+Last run: 2026-10-06 00:47 EDT — rotation 20 (schools & curriculums worldwide — fresh angles listed in this run's sections; already-logged rotation-20 themes skipped). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced; no action needed).
 
 ## Must-fix / commonly missing
 - [ ] Per-page meta titles, meta descriptions, and Open Graph / social-preview tags are missing on deployed routes — shared links render with no preview. Source: https://prerender.io/blog/how-to-make-lovable-websites-seo-friendly/
@@ -150,3 +150,7 @@ Last run: 2026-10-05 23:47 EDT — rotation 3 (competitor batch C: ClassDojo, Du
 - [ ] Parent spend dashboard with caps and alerts: a r/homeschool parent reports "I spent an insane amount of money on Outschool" — per-class/per-currency spending accumulates invisibly. The paying adult must always see totals across every currency (XP≠Aura≠Coins≠Credits≠Rings≠cash) and get alerts before, not after. Source: https://OpenEd.co/tools/outschool
 ## New this run (2026-10-05 23:47 EDT — rotation 3, competitor batch C)
 - [ ] Cancel must kill the subscription at the payment processor, not just in the app database: confirm subscription.cancel server-side against Stripe (or the payment provider) on every cancel, and run a scheduled reconciliation audit of app-side subscription state vs processor state. A charge firing while support says "I don't see an account for you" is the worst billing failure shape in this batch — orphaned billing records. Source: https://adventure-academy.pissedconsumer.com/review.html (parent charged 2 years after cancelling Adventure Academy)
+
+## New this run (2026-10-06 00:47 EDT — rotation 20, schools & curriculums worldwide)
+- [ ] AI tutor answer-vending guardrail: Liq's system prompt must enforce ask-back + teach-back on every session — Korea's national AI textbook program collapsed in 4 months partly because "AI short-circuits the learning process... It simply gives you the answers." Never ship AI features on an ambitious deadline without piloting gates; the national audit found "serious procedural flaws from outset" where validation was skipped. Sources: https://www.youngpostclub.com/yp/news/asia/article/3368461/south-korea-wants-free-unlimited-ai-society-ready and https://www.webpronews.com/south-korea-axes-850m-ai-textbook-program-after-4-months-of-issues/
+- [ ] Mandatory human-review thresholds on AI-driven learning paths: the AI proposes adjustments, a human tutor approves them before the learner's path changes (Korea ministry design). Source: https://www.franvia.com/2026/04/south-korea-national-ai-digital-textbooks-2026.html

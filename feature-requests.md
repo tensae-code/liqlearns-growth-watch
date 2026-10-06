@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-05 23:47 EDT — rotation 3 (competitor batch C: ClassDojo, Duolingo ABC/Math, BrainPOP, Adventure Academy — one new feature request: structured learning path inside game-first apps. Already-logged batch-C requests skipped). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repos surfaced; no action needed).
+Last run: 2026-10-06 00:47 EDT — rotation 20 (schools & curriculums worldwide — fresh angles listed in this run's sections; already-logged rotation-20 themes skipped). Brand check: no third-party liqlearns.com mentions (only the user's own GitHub repo surfaced; no action needed).
 
 ## New this run (2026-10-05 17:47 EDT — rotation 17, new tools radar)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
@@ -98,3 +98,8 @@ Last run: 2026-10-05 23:47 EDT — rotation 3 (competitor batch C: ClassDojo, Du
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
 |---|---|---|---|---|---|
 | Visible structured learning path inside game-first apps: App Store reviewers (March 2026) flagged Adventure Academy's missing structured path; Reddit parents (Feb 2026) felt it "offers just a game, not a real learning experience" — game without a visible path reads as "just pressing buttons" | Adventure Academy parents (via Brighterly 2026 review roundup) | https://brighterly.com/blog/adventure-academy-reviews/ | Game-first edtech without a visible path loses parent trust — the parent can't tell play from learning. A visible path turns game time into defendable learning time. | roadmap (the planned grade-organized game levels + tutor guidance already answer this — ship the path as a visible UI, not a hidden algorithm) | roadmap |
+
+## New this run (2026-10-06 00:47 EDT — rotation 20, schools & curriculums worldwide)
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| Mandatory human review thresholds: Korea's AI-textbook model was built with cases where a student's AI-generated learning path "must be reviewed and approved by a teacher before the system adjusts further" — AI proposes, human disposes | Korea Ministry of Education (built into the AI-DTB design), via franvia analysis (Apr 2026) | https://www.franvia.com/2026/04/south-korea-national-ai-digital-textbooks-2026.html | This is the governance version of prompt-never-perform: Liq's AI coach can suggest path changes, but a human tutor approves them. It converts the AI from an authority into an assistant — and it's the trust artifact skeptical parents need to see | roadmap | roadmap |
