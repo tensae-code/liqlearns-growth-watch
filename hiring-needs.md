@@ -1,7 +1,12 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-06 19:47 EDT — rotation 19 (APKs & software) — 3 new rows: subscription/billing support responder with response-time SLA (Homer's days-slow support); APK distribution integrity owner — signing discipline + SDK/dependency vetting (APKPure Triada via tainted ad SDK, his chat-attached APK builds are trust); AI-tutor accuracy + child-data policy owner (Lathoa's unverified claims / "what happens to explanations kids type" questions). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalikes: Likelearning/Coachli, Liqvid, QuickLearnCrypto).
+Last run: 2026-10-06 20:47 EDT — rotation 20 (schools & curriculums worldwide) — 1 new row: curriculum-spine steward (from the Scotland/Finland skills-and-experiential drift complaint). Brand check: no third-party liqlearns.com mentions (only lookalikes: Licorea, theliquidity, learnacrylic, liquidweb).
+
+## New this run (2026-10-06 20:47 EDT — rotation 20, schools & curriculums worldwide)
+| Human task needed | Source complaint | Link | Notes | Status |
+|---|---|---|---|---|
+| Curriculum-spine steward: own the knowledge spine of every course — review new courses and content updates so game layers, battles, and skills content never REPLACE the core knowledge spine; guard against reform-by-branding (a course can be rebranded "experiential" without getting emptier) | Scotland's Curriculum for Excellence abandoned knowledge for skills-based learning and performance fell; Finland's post-2000 competency reform cost ~a year's worth of learning while the world praised the wrong system | https://asteriskmag.substack.com/p/the-rise-and-fall-of-the-worlds-best and https://jamestraub.substack.com/p/there-is-a-silver-bullet-for-school | Product-design policy, not a one-time fix: one person owns the doctrine's curriculum spine permanently; every game/battle must map to the spine. | Open (pending user decision) |
 
 ## New this run (2026-10-06 18:47 EDT — rotation 18, long tail: forgotten/regional/beta/AI-slop apps)
 | Human task needed | Source complaint | Link | Notes | Status |
