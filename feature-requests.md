@@ -1,7 +1,12 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 1 new row: AI-generated review summaries on course pages (Outschool, shipped in the wild). Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+Last run: 2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 1 new row: multi-language alphabet + bedtime-story mode + separate age bands 2–5/5–7 (Duolingo ABC users). Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+
+## New this run (2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| Multi-language alphabet + bedtime-story read-to-kid mode + separate age bands (2–5 vs 5–7) (Duolingo ABC / Learn to Read) | JustUseApp reviewer (2026): asking for "teach the alphabet of other languages like Spanish", "stories in other languages", "different levels for different age groups" | https://justuseapp.com/en/app/1440502568/learn-to-read-duolingo-abc/reviews | Learners span languages and ages — LiqLearns' baby→granny positioning demands age-banded content, and the textbook corpus's planned translator overlay is the seed of the multilingual layer | roadmap (age-banded content tracks; multilingual alphabet content) | unknown |
 
 ## New this run (2026-10-06 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool))
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |

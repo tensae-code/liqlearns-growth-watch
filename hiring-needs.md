@@ -1,7 +1,12 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-06 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 2 new rows: supply-side policy owner (tutor take-rate + oversaturation); store-billing refund advocate. Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+Last run: 2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 1 new row: human billing-dispute resolver with refund authority (Adventure Academy zombie-billing / bot-only support case). Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+
+## New this run (2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
+| Human task needed | Source complaint | Link | Notes | Status |
+|---|---|---|---|---|
+| Human billing-dispute resolver with real refund authority — reachable by a channel that isn't a scripted chatbot | Adventure Academy PissedConsumer reviewers (2024–2026): live chat is "bots with pre-programmed verbiage"; support claims "can't find any active accounts" while charges continue | https://adventure-academy.pissedconsumer.com/review.html?starRating=1 | LiqLearns' cancel-anytime promise needs a person who can see the real account state and issue refunds without escalation; extends last run's store-billing refund advocate with a cancel-zombie case | open |
 
 ## New this run (2026-10-06 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool))
 | Human task needed | Source complaint | Link | Notes | Status |
