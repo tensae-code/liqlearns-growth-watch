@@ -1,7 +1,7 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-07 02:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 0 new rows — this run's Human-fix angles (billing dispute owner with refund authority; guide vetting + session-quality auditing) are already logged from earlier runs; no new human tasks this run. Brand check: no third-party liqlearns.com mentions (only lookalikes: Liquid Learning, QuickLearnCrypto, LinkLearn; only own repos tensae-code/liqlearns_admin + liqlearns-admin-hub).
+Last run: 2026-10-07 03:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 0 new rows — this run's Human-fix angles (billing dispute owner with refund authority) already logged from earlier runs; no new human tasks this run. Brand check: no third-party liqlearns.com mentions (lookalikes: Liqvid Language Learning, Liquidity Services, Liquor Stores; only own repo tensae-code/liqlearns_admin).
 
 ## New this run (2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
 | Human task needed | Source complaint | Link | Notes | Status |
