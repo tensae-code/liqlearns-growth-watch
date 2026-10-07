@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-07 07:47 EDT — rotation 8 (AI-website commentary + idea harvest — idea-harvest half per back-to-back rule vs rotation 7) — 0 new rows — no 'I wish it had...' finds this run. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid Language Learning, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-07 08:47 EDT — rotation 9 (brand-mention deep scan) — 0 new — brand check: no third-party liqlearns.com mentions (queries: "liqlearns.com", LiqLearns tutoring review, bare "liqlearns", reddit/tiktok/twitter/forum/review/scam query, social IG/Threads/FB) — lookalikes only: Liquid Learning, Liqvid Language Learning, QuickLearnCrypto, QuickLearningSchool, Learner, LearnWithOliver; only own repo tensae-code/liqlearns_admin.
 
 ## New this run (2026-10-07 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |

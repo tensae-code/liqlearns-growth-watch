@@ -1,7 +1,7 @@
 # Complaints vs LiqLearns — "did I make the same mistake?" check
 
 
-Last run: 2026-10-07 07:47 EDT — rotation 8 (AI-website commentary + idea harvest — idea-harvest half per back-to-back rule vs rotation 7) — 1 new row (Cal AI trial-gated-to-annual dark pattern guardrail). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid Language Learning, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-07 08:47 EDT — rotation 9 (brand-mention deep scan) — 0 new — brand check: no third-party liqlearns.com mentions (queries: "liqlearns.com", LiqLearns tutoring review, bare "liqlearns", reddit/tiktok/twitter/forum/review/scam query, social IG/Threads/FB) — lookalikes only: Liquid Learning, Liqvid Language Learning, QuickLearnCrypto, QuickLearningSchool, Learner, LearnWithOliver; only own repo tensae-code/liqlearns_admin.
 
 ## New this run (2026-10-07 04:47 EDT — rotation 4, tutoring batch D: Wyzant / Varsity Tutors / Preply / Superprof)
 | Complaint (platform) | Who said it | Link | Same mistake in LiqLearns? | Fix via (Lovable / Human) | Status |

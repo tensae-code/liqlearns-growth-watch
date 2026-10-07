@@ -1,7 +1,7 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-07 07:47 EDT — rotation 8 (AI-website commentary + idea harvest — idea-harvest half per back-to-back rule vs rotation 7) — 1 new pattern (EaseLearn peer-demo acquisition loop, 100k users zero marketing). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid Language Learning, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-07 08:47 EDT — rotation 9 (brand-mention deep scan) — 0 new — brand check: no third-party liqlearns.com mentions (queries: "liqlearns.com", LiqLearns tutoring review, bare "liqlearns", reddit/tiktok/twitter/forum/review/scam query, social IG/Threads/FB) — lookalikes only: Liquid Learning, Liqvid Language Learning, QuickLearnCrypto, QuickLearningSchool, Learner, LearnWithOliver; only own repo tensae-code/liqlearns_admin.
 
 Last run: 2026-10-07 06:47 EDT — rotation 7 (Lovable-built website issues: SEO/CSR indexing gaps, AudioEye AI-accessibility study, ShipClarity 190-app scan, vibecoded churn data, debugging-loop credit burn) — 5 new complaints rows; 1 new success pattern (per-page Social/Search cards); 7 new lovable-fix items; 2 new ideas; 1 new hiring need (screen-reader QA tester); 0 new prospects. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid Language Learning, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
 
