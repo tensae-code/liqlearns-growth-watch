@@ -1,7 +1,10 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-07 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 0 new items — this run's checklist angles (no-upsell-in-child-surfaces, teach-before-drill, non-punitive scoring, child-data policy, cancel gauntlets) already logged from the 2026-10-05/06 rotation-1 runs. Brand check: no third-party liqlearns.com mentions (only lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-07 02:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 1 new item: verify paid access before charging on signup. Brand check: no third-party liqlearns.com mentions (only lookalikes: Liquid Learning, QuickLearnCrypto, LinkLearn; only own repos tensae-code/liqlearns_admin + liqlearns-admin-hub).
+
+## New this run (2026-10-07 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
+- [ ] Verify paid access BEFORE charging on signup — never charge a card when the account can't access the product: a SplashLearn buyer signed up via an Instagram ad, never received the verification code, and was charged $19 with no app access ("My card was charged, but I can't access the app, which is crazy"). Gate billing behind successful verification/onboarding; auto-flag paid-but-unverified accounts for instant refund-or-fix. Source: https://splashlearn.pissedconsumer.com/review.html
 
 ## New this run (2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
 - [ ] Notification digest controls — school-app reviewers report per-event pings driving parent anxiety ("can sometimes feel overwhelming", behavior-point pings "skyrocketing" anxiety): default new accounts to a digest (daily summary + quiet hours), never per-event pings as the only option. Source: https://www.parents.com/pros-and-cons-of-school-apps-12058669
