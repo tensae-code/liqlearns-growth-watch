@@ -1,8 +1,8 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-07 15:47 EDT — rotation 15 (student voices) — 0 new for this file (voice batch; fed field-notes.md with 5 new notes, +1 success-pattern row, +1 complaints-check row). Brand check: no third-party liqlearns.com mentions (search returned lookalikes only: TheLiquidity, brainlearns.com, learnacrylic.com, LiquidEHR, Liquid Web).
-
+Last run: 2026-10-07 16:47 EDT — rotation 16 (course love) — 5 new entries (HN best-MOOCs thread: Roughgarden intuition-before-optimization + Orwig narrated thought process on real projects; dev.to: Odersky Scala zero-friction setup + creator-as-teacher trust; Computhink SG parent reviews: enthusiasm + Minecraft/Scratch play = class kids beg to attend; TripleTen: never-feel-stuck support stack + success manager who cares about wellbeing as the care moat). Brand check: no third-party liqlearns.com mentions (lookalikes only: Liquid Learning, quicklearncrypto, learnsql.com, linklearncertification.com; plus own GitHub repos).
+"
 ## New this run (2026-10-07 05:47 EDT — rotation 6, lifespan batch F: BrainHQ / Brain.fm older-adult and trial patterns)
 - [ ] No email-gated trial bait-and-switch: the CTA button must state the exact free limit BEFORE any email field ("Try 5 free sessions", never "Start listening now" then reveal the limit after signup) — Brain.fm generated "I feel like I've been duped into giving my personal information away" resentment over this. Source: https://news.ycombinator.com/item?id=18493075
 - [ ] Publish a content-maintenance cadence for long-lived learning apps: a visible changelog/what's-new and periodic audio/content quality audits — BrainHQ's 85-year-old resubscriber publicly wondered "whether you are still maintaining and actively improving" after bad audio and zero new exercises. Stale content silently churns the oldest (most patient) learners. Source: https://justuseapp.com/en/app/537452201/brainhq/reviews
