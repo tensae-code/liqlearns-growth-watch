@@ -1,7 +1,7 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-07 16:47 EDT — rotation 16 (course love) — 5 new entries (HN best-MOOCs thread: Roughgarden intuition-before-optimization + Orwig narrated thought process on real projects; dev.to: Odersky Scala zero-friction setup + creator-as-teacher trust; Computhink SG parent reviews: enthusiasm + Minecraft/Scratch play = class kids beg to attend; TripleTen: never-feel-stuck support stack + success manager who cares about wellbeing as the care moat). Brand check: no third-party liqlearns.com mentions (lookalikes only: Liquid Learning, quicklearncrypto, learnsql.com, linklearncertification.com; plus own GitHub repos).
+Last run: 2026-10-07 17:47 EDT — rotation 17 (new tools radar) — 4 new entries in feature-requests.md (Aristotle voice-first AI tutoring; Fermi.ai productive-struggle tutor + Smart Canvas + reasoning diagnostics; StudyNinja I-Do-We-Do-You-Do micro-lessons + knowledge-graph paths; Life Story Compiler AI memoir builder for older adults). No new entries in this file this run. Brand check: no third-party liqlearns.com mentions (lookalikes only: Liquid Learning, Liqvid, quicklearncrypto, learnsql.com; plus own GitHub repos).
 "
 ## New this run (2026-10-07 15:47 EDT — rotation 15, student voices)
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
