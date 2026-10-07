@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 1 new row: multi-language alphabet + bedtime-story mode + separate age bands 2–5/5–7 (Duolingo ABC users). Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+Last run: 2026-10-07 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 0 new rows — no sourced "I wish it had..." finds this run (Prodigy ELA wish already shipped by them; IXL homeschool-mom finds were retention praise, logged in success-patterns.md). Brand check: no third-party liqlearns.com mentions (only lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
 
 ## New this run (2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |

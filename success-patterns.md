@@ -1,7 +1,7 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 3 new patterns: Duolingo ABC shipping parent-requested fixes fast; ClassDojo's daily classroom-connection loop; BrainPOP's institutional stickiness via standards alignment + usage data. Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+Last run: 2026-10-07 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 0 new patterns — retention angles already logged by the 2026-10-05/06 rotation-1 runs (Prodigy Math Facts free teacher tier, engagement alchemy, teacher Assignments dashboard, efficacy evidence, free-line trust; IXL feedback loops, IG encouragement, advocacy reels, low-frills focus, Group Jams; ABCmouse risk-free trial). No new angles this run — per dedup rule, no re-logs. Brand check: no third-party liqlearns.com mentions (only lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
 
 ## New this run (2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |

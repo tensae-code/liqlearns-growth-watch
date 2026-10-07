@@ -1,7 +1,7 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 3 new items: notification digest controls (default to digest + quiet hours); child-tolerant input recognition (wait for stroke to finish); cardless trial option + trial-expiry reminders. Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+Last run: 2026-10-07 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 0 new items — this run's checklist angles (no-upsell-in-child-surfaces, teach-before-drill, non-punitive scoring, child-data policy, cancel gauntlets) already logged from the 2026-10-05/06 rotation-1 runs. Brand check: no third-party liqlearns.com mentions (only lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
 
 ## New this run (2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
 - [ ] Notification digest controls — school-app reviewers report per-event pings driving parent anxiety ("can sometimes feel overwhelming", behavior-point pings "skyrocketing" anxiety): default new accounts to a digest (daily summary + quiet hours), never per-event pings as the only option. Source: https://www.parents.com/pros-and-cons-of-school-apps-12058669

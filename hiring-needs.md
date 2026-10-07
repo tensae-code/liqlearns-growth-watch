@@ -1,7 +1,7 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 1 new row: human billing-dispute resolver with refund authority (Adventure Academy zombie-billing / bot-only support case). Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+Last run: 2026-10-07 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 0 new rows — this run's Human-fix angles (child-data policy owner, billing SLA) are already logged from earlier runs; no new human tasks this run. Brand check: no third-party liqlearns.com mentions (only lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
 
 ## New this run (2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
 | Human task needed | Source complaint | Link | Notes | Status |

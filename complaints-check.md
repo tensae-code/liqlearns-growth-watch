@@ -1,7 +1,7 @@
 # Complaints vs LiqLearns — "did I make the same mistake?" check
 
 
-Last run: 2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 6 new rows: ClassDojo Plus surprise $59.99/yr charges + hard-to-find cancel; school-app notification overload driving parent anxiety; Duolingo Math handwriting-OCR misreads kid's "4" as "1" mid-stroke; Duolingo flagship energy-system paywall + billing/support black hole; Adventure Academy zombie billing after cancellation + bot-only support; BrainPOP price-creep out of schools + card-upfront trial auto-billing. Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+Last run: 2026-10-07 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 0 new rows — rotation-1 themes already logged by the 2026-10-05/06 rotation-1 runs (Prodigy FTC child-directed upsell, "no teaching happening", pay-to-win, pop-up ads, instant-charge/slow-support; IXL SmartScore, Quakertown ban, Shanahan student-data; ABCmouse FTC $10M cancel traps). No new angles this run — per dedup rule, no re-logs. Brand check: no third-party liqlearns.com mentions (only lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
 
 ## New this run (2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
 | Complaint (platform) | Who said it | Link | Same mistake in LiqLearns? | Fix via (Lovable / Human) | Status |
