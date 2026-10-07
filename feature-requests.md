@@ -1,7 +1,10 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-07 09:47 EDT — rotation 9 (brand-mention deep scan) — 0 new — brand check: no third-party liqlearns.com mentions (queries: "liqlearns" -site:liqlearns.com, LiqLearns news vertical, liqlearns github, liqlearns app store/APK, fresh social IG/Threads/FB queries) — lookalikes only: Liquid Learning, Liqvid Language Learning, Liquid4All/cookbook, Liqi (Superprof tutor), Learna AI, case-law OCR "liqlearns" artifacts; only own repos tensae-code/liqlearns_admin + liqlearns-admin-hub.
+Last run: 2026-10-07 11:47 EDT — rotation 11 (solution-seekers & feature requests) — 1 new feature request (AI assess→plan→adapt→real-time gap tracking, from the AuDHD-kids LinkedIn parent).
+
+## New this run (2026-10-07 11:47 EDT — rotation 11 (solution-seekers & feature requests))
+| AI tutor loop: assess the learner's current level → build a customized plan for their strengths/weaknesses → adapt tasks to their learning style → track progress and identify gaps in real time (any tutoring platform) | Parent of two AuDHD kids (8yo + 10yo, neurodivergent/gifted) on LinkedIn — she built this herself with AI because scheduled $90+/lesson tutoring failed her kids, who must learn "when they're regulated, engaged, and ready" | https://www.linkedin.com/pulse/ai-tutoring-my-kidsfor-free-thenderdydermy-bthhc | Same parent-behind-the-wheel theme as Oct-6 heybachu, new angle: neurodivergent kids can't be scheduled — the plan must adapt to headspace, not the calendar. Confidence-building is named as "the single most important factor in achieving success." | roadmap (AI "Liq" coach: level-assess → personalized plan → style-adaptive tasks → real-time gap flags; plus self-paced learn-anytime design) | roadmap |
 
 ## New this run (2026-10-07 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |

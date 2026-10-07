@@ -1,7 +1,10 @@
 # Complaints vs LiqLearns — "did I make the same mistake?" check
 
 
-Last run: 2026-10-07 09:47 EDT — rotation 9 (brand-mention deep scan) — 0 new — brand check: no third-party liqlearns.com mentions (queries: "liqlearns" -site:liqlearns.com, LiqLearns news vertical, liqlearns github, liqlearns app store/APK, fresh social IG/Threads/FB queries) — lookalikes only: Liquid Learning, Liqvid Language Learning, Liquid4All/cookbook, Liqi (Superprof tutor), Learna AI, case-law OCR "liqlearns" artifacts; only own repos tensae-code/liqlearns_admin + liqlearns-admin-hub.
+Last run: 2026-10-07 11:47 EDT — rotation 11 (solution-seekers & feature requests) — 1 new complaint row (Cybershala: sample-session audio so bad the parent dropped the platform despite liking its Singapore curriculum).
+
+## New this run (2026-10-07 11:47 EDT — rotation 11 (solution-seekers & feature requests))
+| Cybershala (online math tutoring): sample session sound quality "pulsed in and out," making the tutor hard to understand — the parent wanted it to work (Singapore primary curriculum) but "the communication barrier was just too great" and dropped the platform entirely | Well-Trained Mind forum parent | https://forums.welltrainedmind.com/topic/396425-looking-for-online-math-tutor/ | A won sale lost to session audio, not curriculum. Any LiqLearns live-tutoring feature needs a mandatory pre-session audio/video check and a minimum-quality bar; offshore tutor staffing must clear an accent/clarity bar before facing parents. | Lovable (pre-session device/audio check + quality gate) + Human (tutor onboarding tech audit) | unknown (proactive) |
 
 ## New this run (2026-10-07 04:47 EDT — rotation 4, tutoring batch D: Wyzant / Varsity Tutors / Preply / Superprof)
 | Complaint (platform) | Who said it | Link | Same mistake in LiqLearns? | Fix via (Lovable / Human) | Status |
