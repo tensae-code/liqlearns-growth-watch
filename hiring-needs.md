@@ -1,7 +1,13 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 0 new rows — no Human-fix complaints this run. Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto).
+Last run: 2026-10-06 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 2 new rows: supply-side policy owner (tutor take-rate + oversaturation); store-billing refund advocate. Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+
+## New this run (2026-10-06 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool))
+| Human task needed | Source complaint | Link | Notes | Status |
+|---|---|---|---|---|
+| Supply-side policy owner: own tutor take-rate policy and supply-side trust — publish any take-rate change with a notice period, cap enrollment per category to prevent oversaturation, and give new guides honest earnings expectations ("marketing yourself is half the job") instead of hype | Outschool teachers: take-rate raised 17%→30%, oversaturation, "hard to breakthrough and get steady classes" | https://www.indeed.com/cmp/Outschool/reviews | Applies if LiqLearns ever hosts third-party tutors/guides; until then this is a policy file, not a person. | Open (pending user decision) |
+| Store-billing refund advocate: a human authorized to resolve refunds for subscriptions billed through Apple/Google Play — issue credits directly where possible, or walk the user through the store refund process with a pre-filled template, instead of telling them "we can't help you" | SplashLearn: store-billed users can't be cancelled or refunded by support | https://www.myengineeringbuddy.com/blog/splashlearn-reviews-alternatives-pricing-offerings/ | Native app exists — app-store billing is a real future state; own this BEFORE the first store-billed subscriber. | Open (pending user decision) |
 
 ## New this run (2026-10-06 20:47 EDT — rotation 20, schools & curriculums worldwide)
 | Human task needed | Source complaint | Link | Notes | Status |

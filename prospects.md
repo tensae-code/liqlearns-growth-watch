@@ -1,7 +1,10 @@
 # Prospects — classified outreach list
 
 Flag-only: NEVER contact, message, email, or invite anyone from this list. The user does his own outreach (Sunday grind). Classified so he knows exactly how to pitch each one — parents, teachers/tutors, students, adult learners, older adults, and admins each get a different sell. Categories stay open: new ones get added whenever the research finds a kind of person with no fitting bucket. Scope: baby to granny — full-lifespan tutoring, NOT kids-only (widened 2026-10-03).
-Last run: 2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 0 new prospects — no real people in this run's finds (aggregate press + already-logged review sources). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto).
+Last run: 2026-10-06 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 1 new prospect: anonymous DCUM teacher shopping for a fairer tutor marketplace (take-rate is their stated pain). Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+
+## New this run (2026-10-06 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool))
+- **Anonymous DC Urban Mom teacher** — Teacher/Tutor, solution-seeker — shopping for a fairer marketplace: "Outschool takes 30% of parent's payment, leaving teachers with only 70%. Anyone know of some competing sites with better rates?" — supply-side prospect for any future LiqLearns tutor marketplace; the take-rate is their stated pain point. — https://www.dcurbanmom.com/dev/posts/list/15/1131102.page — Found: 2026-10-06
 
 ## New this run (2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL))
 _(no new prospects — this run's finds had no new real people: Prodigy/ABCmouse/IXL review coverage was aggregate press and already-logged complaint sources.)_

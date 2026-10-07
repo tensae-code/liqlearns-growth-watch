@@ -1,7 +1,12 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 1 new row: Prodigy Math Facts competitor launch — tutor-customizable drill packs + mastery-gap grids, free-teacher tier funnel (advfn, fresh). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto).
+Last run: 2026-10-06 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 1 new row: AI-generated review summaries on course pages (Outschool, shipped in the wild). Brand check: no third-party liqlearns.com mentions (only lookalikes: ClickLearn, theliquidity.com, brainlearns.com, Joy in Learning).
+
+## New this run (2026-10-06 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool))
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| AI-generated review summaries on course pages: class pages carry an "AI-generated from parent reviews" summary (teaching style, engagement, environment) so parents get the verdict at a glance without reading dozens of reviews (Outschool class pages, 2026) | Outschool (shipped feature, in the wild) | https://outschool.com/classes/dress-to-impress-roblox-iGgY2Fce?usid=QZaPV6lQ&signup=true&utm_campaign=share_activity_link | Pre-purchase trust at a glance — parents decide faster and feel less risk; also surfaces per-course improvement signals. LiqLearns should add this once real reviews exist — but only ever summarize VERIFIED reviews, never generate testimonials. | YES — roadmap (verified-review summaries only) | roadmap |
 
 ## New this run (2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL))
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
