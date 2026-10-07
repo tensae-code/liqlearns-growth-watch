@@ -3,6 +3,14 @@
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
 Last run: 2026-10-07 03:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 1 new pattern: ClassDojo 35+ language auto-translation of parent-teacher messages (inclusion moat). Brand check: no third-party liqlearns.com mentions (lookalikes: Liqvid Language Learning, Liquidity Services, Liquor Stores; only own repo tensae-code/liqlearns_admin).
 
+Last run: 2026-10-07 04:47 EDT — rotation 4, tutoring batch D: Wyzant / Varsity Tutors / Preply / Superprof — 2 new rows: Wyzant "Good Fit Guarantee" (first hour risk-free); Varsity Tutors free diagnostic funnel (placement test + 2,700+ free knowledge checks). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, LIQUORexam.com, Link & Learn; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
+
+## New this run (2026-10-07 04:47 EDT — rotation 4, tutoring batch D)
+| What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
+|---|---|---|---|---|---|
+| Wyzant "Good Fit Guarantee" — the first hour with a new tutor is refund-protected ("Refund for your first hour if the fit isn't right"; applies again when you switch tutors) | TopConsumerReviews Wyzant MCAT review, Oct 2026 | https://www.topconsumerreviews.com/best-mcat-test-prep-courses/reviews/wyzant | Removes the biggest reason a price-shopper walks away: paying a stranger who might be a bad fit. First-session risk reversal converts browsers; the guarantee also forces the platform to invest in match quality. | YES — first session with any new guide refundable on a "not a fit" click within 24h, automatic | can-implement |
+| Varsity Tutors free diagnostic funnel — free placement test for tutor matching, free practice tests (2,729 Common Core knowledge checks), "Learn by concept" questions with answers, flashcards, question-of-the-day, free diagnostic reading lesson — a full free tier that funnels into paid matching | Brighterly cost guide, 2026 | https://brighterly.com/blog/varsity-tutors-cost/ | The buyer leaves the free tier with a PLAN and evidence, not a pitch; the plan then justifies the purchase and makes later progress measurable — retention feeds on measured gains. | YES — free diagnostic intake + visible gap analysis before any payment (pairs with the planned grade-declaration routing) | can-implement |
+
 ## New this run (2026-10-07 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
 |---|---|---|---|---|---|

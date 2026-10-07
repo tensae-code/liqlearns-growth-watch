@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-07 03:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 2 new rows: extend kids reading app to ages 7–10 (already-have — LiqLearns is all-ages); parent mastery-overview dashboard (roadmap). Brand check: no third-party liqlearns.com mentions (lookalikes: Liqvid Language Learning, Liquidity Services, Liquor Stores; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-07 04:47 EDT — rotation 4, tutoring batch D: Wyzant / Varsity Tutors / Preply / Superprof — 0 new rows — Socratic/parent-managed tutor patterns already logged from earlier runs; no fresh "I wish it had..." finds. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, LIQUORexam.com, Link & Learn; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
 
 ## New this run (2026-10-07 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
