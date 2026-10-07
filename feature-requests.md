@@ -1,7 +1,13 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 19:47 EDT — rotation 19 (APKs & software) — 3 new feature rows: true-offline lesson CREATION (Origa's 4 offline layers — review isn't enough, creation must work offline too); desktop client wish (BigBlueButton reviewer — marked unknown, web+mobile may suffice); whiteboard keyboard shortcuts for tutors (HN). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalikes: Likelearning/Coachli, Liqvid, QuickLearnCrypto).
+Last run: 2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 1 new row: Prodigy Math Facts competitor launch — tutor-customizable drill packs + mastery-gap grids, free-teacher tier funnel (advfn, fresh). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto).
+
+## New this run (2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL))
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| Tutor-customizable drill packs + mastery-gap grids (Prodigy Math Facts, launched ~Sept 2026): free-for-teachers fluency tool — customizable fact sets + fluency thresholds, differentiated per student, auto-tracked "fluency grids" showing mastery gaps, one free session-per-student-per-day, "no cost for teachers." 4th-grade teacher Misty Escoto (Nevada): "I now hear excitement and cheers instead of moans and groans when I say it's time for practice." 2nd-grade teacher Edward Courtney (NY): "I have seen an overall increase in skill reports and other assessments since using Prodigy Math Facts." | Prodigy Education press release + teacher testimonials | https://www.advfn.com/stock-market/stock-news/98070769/introducing-prodigy-math-facts-a-fun-new-way-to-b | Two moves to steal: (1) free-for-teachers/tutors tier as the acquisition funnel — classroom hours come first, families follow; (2) tutor-set drill sets with per-learner mastery grids = differentiation as the product, and the "excited, not groans" bar as the design test for every LiqLearns drill | roadmap (tutor-authored drill packs + mastery-gap dashboards visible to parents; free teacher/tutor onboarding tier) | roadmap |
+
 
 ## New this run (2026-10-06 18:47 EDT — rotation 18, long tail: forgotten/regional/beta/AI-slop apps)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |

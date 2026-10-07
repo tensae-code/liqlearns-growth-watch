@@ -1,7 +1,7 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-06 20:47 EDT — rotation 20 (schools & curriculums worldwide) — 1 new row: curriculum-spine steward (from the Scotland/Finland skills-and-experiential drift complaint). Brand check: no third-party liqlearns.com mentions (only lookalikes: Licorea, theliquidity, learnacrylic, liquidweb).
+Last run: 2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 0 new rows — no Human-fix complaints this run. Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto).
 
 ## New this run (2026-10-06 20:47 EDT — rotation 20, schools & curriculums worldwide)
 | Human task needed | Source complaint | Link | Notes | Status |

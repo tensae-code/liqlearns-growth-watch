@@ -1,7 +1,7 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-06 20:47 EDT — rotation 20 (schools & curriculums worldwide) — 2 new items: rotate content formats across the week to kill day-to-day monotony (Khan Academy complaint); pair in-session device use with explicit rules — guidelines are the mechanism, bans alone aren't (PISA 2025). Brand check: no third-party liqlearns.com mentions (only lookalikes: Licorea, theliquidity, learnacrylic, liquidweb).
+Last run: 2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 0 new items — rotation-1 QA finds (Prodigy audio, upsell dark patterns) already logged in prior runs. Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto).
 
 ## New this run (2026-10-06 20:47 EDT — rotation 20, schools & curriculums worldwide)
 - [ ] Rotate lesson content formats across the week so daily learning doesn't turn monotonous: homeschool mom on Khan Academy — "Khan Academy can get monotonous for day to day homeschooling. Sal does a great job, but it can get a little boring after awhile" — and MobyMax "isn't as fun and engaging as Brainpop." Monotony is churn, not a content-quality problem: one format repeated daily makes even good content boring. Vary formats (video, comic-style, games, DIY blocks) — never the same mode two days running. Source: http://www.kidscreativechaos.com/2018/06/free-online-homeschool-curriculum.html?m=1

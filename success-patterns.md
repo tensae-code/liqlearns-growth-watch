@@ -1,7 +1,13 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-06 20:47 EDT — rotation 20 (schools & curriculums worldwide: PISA 2025 results, national systems, curriculum reform) — 5 new patterns: Singapore's rigor+student-centeredness pairing, El Salvador's aligned AI-tutor system, Uruguay's curriculum transformation on Plan Ceibal, curriculum-as-tool retention framing, PISA device-clarity finding. Brand check: no third-party liqlearns.com mentions (only lookalikes: Licorea, theliquidity, learnacrylic, liquidweb).
+Last run: 2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 1 new pattern: Prodigy Math Facts free-teacher tier + differentiation as the viral/retention loop (teacher testimonials, advfn, fresh). Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto).
+
+## New this run (2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL))
+| What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
+|---|---|---|---|---|---|
+| Free teacher tier as the viral loop + teacher-controlled differentiation (Prodigy Math Facts, ~Sept 2026): free for teachers, one free session per student per day, customizable fact sets and fluency thresholds "including the ability to differentiate for individual students," auto-tracked fluency grids. Teachers convert: Misty Escoto (4th grade, Nevada) — "I now hear excitement and cheers instead of moans and groans when I say it's time for practice"; Edward Courtney (2nd grade, NY) — "I have seen an overall increase in skill reports and other assessments," crediting engagement: "students respond better when they are engaged" | Misty Escoto, Edward Courtney (teachers), via Prodigy Education press release | https://www.advfn.com/stock-market/stock-news/98070769/introducing-prodigy-math-facts-a-fun-new-way-to-b | Free teacher tools earn classroom hours first; families follow the teacher. Teacher-set customization makes practice feel assigned by a real person (retention), and visible fluency grids give the progress feeling that keeps parents paying | YES — free tier for tutors/teachers onboarding learners; tutor-authored drill sets + per-learner mastery grids visible to parents; adopt the "cheers, not groans" bar as the drill-design test | can-implement |
+
 
 ## New this run (2026-10-06 20:47 EDT — rotation 20, schools & curriculums worldwide)
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |

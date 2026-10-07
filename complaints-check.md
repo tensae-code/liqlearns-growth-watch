@@ -1,7 +1,11 @@
 # Complaints vs LiqLearns — "did I make the same mistake?" check
 
 
-Last run: 2026-10-06 20:47 EDT — rotation 20 (schools & curriculums worldwide) — 3 new rows: Khan Academy day-to-day monotony, Scotland/Finland skills-and-experiential curriculum drift (→ Human: curriculum-spine steward logged in hiring-needs.md), France's centralization-without-flexibility. Brand check: no third-party liqlearns.com mentions (only lookalikes: Licorea, theliquidity, learnacrylic, liquidweb).
+Last run: 2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 0 new rows — all rotation-1 finds (Prodigy upsell/music, IXL SmartScore, ABCmouse cancel traps) already covered in prior runs; thematic dedup held. Brand check: no third-party liqlearns.com mentions (only the user's own tensae-code GitHub repos + lookalikes: Liquid Learning, Liqvid, QuickLearnCrypto).
+
+## New this run (2026-10-06 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL))
+_(no new rows — this run's finds were all already logged: Prodigy child-directed upselling (2021 FTC complaint, row above), Prodigy background-music-drowning-prompts (lovable-fix-checklist.md), IXL SmartScore -10/+2 punitive scoring (multiple rows), ABCmouse GetHuman cancel/trap complaints (rows above). No new angles this run.)_
+
 
 ## New this run (2026-10-06 20:47 EDT — rotation 20, schools & curriculums worldwide)
 | Complaint | Source | Link | LiqLearns verdict | Fix via | Status |
