@@ -1,7 +1,7 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-07 06:47 EDT — rotation 7 (Lovable-built website issues: SEO/CSR indexing gaps, AudioEye AI-accessibility study, ShipClarity 190-app scan, vibecoded churn data, debugging-loop credit burn) — 5 new complaints rows; 1 new success pattern (per-page Social/Search cards); 7 new lovable-fix items; 2 new ideas; 1 new hiring need (screen-reader QA tester); 0 new prospects. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid Language Learning, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-07 07:47 EDT — rotation 8 (AI-website commentary + idea harvest — idea-harvest half per back-to-back rule vs rotation 7) — 0 new items — idea-harvest half, no new QA failures (per overlap rule). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid Language Learning, QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
 
 ## New this run (2026-10-07 05:47 EDT — rotation 6, lifespan batch F: BrainHQ / Brain.fm older-adult and trial patterns)
 - [ ] No email-gated trial bait-and-switch: the CTA button must state the exact free limit BEFORE any email field ("Try 5 free sessions", never "Start listening now" then reveal the limit after signup) — Brain.fm generated "I feel like I've been duped into giving my personal information away" resentment over this. Source: https://news.ycombinator.com/item?id=18493075
