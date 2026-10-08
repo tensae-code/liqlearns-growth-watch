@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-07 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy) — 3 new items. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, QuickLearnCrypto, Qlearly, liquorexam.com, linklearncertification.com; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
+Last run: 2026-10-08 00:47 EDT — rotation 20 (schools & curriculums worldwide) — 1 new item. Brand check: no third-party liqlearns.com mentions (lookalikes: The Liquidity, brainlearns.com, learnacrylic.com, LingQ, LiquidEHR, Liquid Web; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
 "
 ## New this run (2026-10-07 23:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
@@ -216,3 +216,8 @@ Last run: 2026-10-07 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / D
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
 |---|---|---|---|---|---|
 | AI knowledge-gap diagnostics → personalized learning path: Dumqa (Product Hunt launch, June 2026): "Instead of giving everyone the same course, Dumqa identifies your knowledge gaps through AI conversations and builds a personalized learning path based on what you need to learn" — a generated curriculum from a diagnostic, not a generic course list; "Practice with AI instead of memorizing static question lists" | Aleksandr Repetskyi — launch post, Medium (June 2026) | https://medium.com/@a.repetskyi/we-just-launched-dumqa-on-product-hunt-0f16a939a7e8 | This is the premium version of his planned "declare your grade → matching content on top": a short diagnostic conversation produces a per-learner path, so nobody starts from the wrong rung. Fits his adult-learner and older-adult segments who arrive with unknown starting points | YES — grade-declaration is the v1; gap-diagnostic → personal path is the roadmap v2 | roadmap |
+
+## New this run (2026-10-08 00:47 EDT — rotation 20, schools & curriculums worldwide)
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| A true from-scratch beginner track: LingQ's courses "start at an above-beginner level, making it less than ideal for those who want to start Greek from scratch" — learners arriving at zero want a dedicated beginner path, not a warm-up lesson inside the advanced course | topconsumerreviews.com LingQ review (Oct 2026) | https://www.topconsumerreviews.com/best-greek-lessons/reviews/lingq.php | All-ages platforms get cold-start users constantly (an older adult trying a language app, a career-changer opening a math course). A visible "start from zero" path is table stakes for the baby-to-granny lifespan; without it, zero-level users bounce before lesson two | YES — beginner rung clearly labeled in the course/grade ladder; his planned grade-declaration should default unknowns to a zero-rung diagnostic, not a grade | roadmap |
