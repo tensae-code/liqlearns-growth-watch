@@ -1,7 +1,7 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-08 00:47 EDT — rotation 20 (schools & curriculums worldwide) — new item: never sell unreleased lessons; explicit drip labels. Brand check: no third-party liqlearns.com mentions (lookalikes: The Liquidity, brainlearns.com, learnacrylic.com, LingQ, LiquidEHR, Liquid Web; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
+Last run: 2026-10-08 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — new item: never use shame audio on wrong answers. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
 
 ## New this run (2026-10-07 23:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
 - [ ] Explicit paid-vs-free labeling at signup + visible subscription status in-account + one-tap cancel: ClassDojo parents were charged $59.99–$74.36 without realizing Plus had started, and several struggled to find the cancel option. Sources: https://beenet.app/blog/is-the-classdojo-app-really-free-what-it-costs-in-2026/ and https://www.complaintsboard.com/classdojo-b150044
@@ -276,3 +276,6 @@ Last run: 2026-10-08 00:47 EDT — rotation 20 (schools & curriculums worldwide)
 
 ## New this run (2026-10-08 00:47 EDT — rotation 20, schools & curriculums)
 - [ ] Never sell content that doesn't exist yet: a brainlearns.com Trustpilot review ("Total Scam. Only 1 out of 12 Programm Weeks available") shows users read purchasable-but-missing lessons as fraud, not a bug. Catalog must show only completed lessons; any drip-release course carries an explicit "in progress — new lesson weekly" label with dates. Source: https://www.trustpilot.com/review/brainlearns.com
+
+## New this run (2026-10-08 01:47 EDT — rotation 1, competitor batch A: Prodigy / ABCmouse / IXL)
+- [ ] Never ship harsh negative-feedback audio/UX on wrong answers: one IXL parent reports her son got "continual negative feedback with a honking sound" that left him "overwhelmed" and "thinking he was bad at math" — the teaching doctrine says corrections never say wrong, so a missed answer must open a guidance path (retry + hint), never a shame buzzer. Source: https://OpenEd.co/tools/ixl

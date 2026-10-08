@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-08 00:47 EDT — rotation 20 (schools & curriculums worldwide) — 1 new item. Brand check: no third-party liqlearns.com mentions (lookalikes: The Liquidity, brainlearns.com, learnacrylic.com, LingQ, LiquidEHR, Liquid Web; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
+Last run: 2026-10-08 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — no new items. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
 "
 ## New this run (2026-10-07 23:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |

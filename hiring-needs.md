@@ -1,7 +1,7 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-08 00:47 EDT — rotation 20 (schools & curriculums worldwide) — no new items (all Human-fix rows map to already-logged needs). Brand check: no third-party liqlearns.com mentions (lookalikes: The Liquidity, brainlearns.com, learnacrylic.com, LingQ, LiquidEHR, Liquid Web; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
+Last run: 2026-10-08 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — no new items (all fixes Lovable-side). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
 
 ## New this run (2026-10-07 23:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
 | Human task needed | Source complaint | Link | Notes | Status |
