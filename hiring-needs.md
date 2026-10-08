@@ -1,7 +1,13 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-07 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 1 new item (curriculum-coverage mapper). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, QuickLearnCrypto, Liqvid, LIQ Amharic study platform; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
+Last run: 2026-10-07 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy) — 2 new items. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, QuickLearnCrypto, Qlearly, liquorexam.com, linklearncertification.com; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
+
+## New this run (2026-10-07 23:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
+| Human task needed | Source complaint | Link | Notes | Status |
+|---|---|---|---|---|
+| Human billing-dispute resolver with refund authority — billing fights never end at a bot | Adventure Academy Trustpilot (Aug 2026): "useless AI customer service that literally does nothing... they dont even refund you when THEY made the mistake" | https://www.trustpilot.com/review/www.adventureacademy.com | A billing dispute that ends at an AI ends at a chargeback and a "scam" review; the cancel-anytime contract needs a human who can say yes to a refund | open |
+| Child-safety chat moderators — age-verify and monitor all social surfaces | Adventure Academy Trustpilot (Apr 2025): adult created an account pretending to be a child and chatted with other children | https://www.trustpilot.com/review/www.adventureacademy.com | Battles, study rooms, clans — every social surface needs a person (or team) enforcing moderation and parental restrictions; COPPA-certified chat is the floor, not the ceiling | open |
 
 ## New this run (2026-10-07 22:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
 | Human task needed | Source complaint | Link | Notes | Status |
