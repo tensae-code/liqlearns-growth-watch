@@ -1,7 +1,12 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-08 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — no new items (all fixes Lovable-side). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-08 02:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 1 new need: kids' content QA editor (spelling/grammar + tone before publish). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+
+## New this run (2026-10-08 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
+| Human task needed | Source complaint | Link | Notes | Status |
+|---|---|---|---|---|
+| Kids' content QA editor: proofread every learner-facing lesson for spelling/grammar AND tone (no crass humor kids will imitate, no leaked production notes) BEFORE publish, as a standing gate | Time4 Learning review: "spelling and grammatical errors have been found in the reading program" + "crass humor that kids would likely imitate" | https://www.topconsumerreviews.com/best-learn-to-read-products/ | Parallel to LiqLearns' known leak (raw markdown + production notes shown to students). AI-generated lessons make this worse — an editor must own the publish gate, not just fix-after-report. | open |
 
 ## New this run (2026-10-07 23:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
 | Human task needed | Source complaint | Link | Notes | Status |

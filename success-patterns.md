@@ -1,7 +1,7 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-08 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 2 new entries (IXL: parent labor elimination, prescribing diagnostics). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-08 02:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — no new items in this file this run (batch-2 praise angles — Khan Kids free trust line, Outschool reviews/ratings trust, tutor-fit trials — already logged). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
 
 ## New this run (2026-10-07 23:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |

@@ -1,7 +1,11 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-08 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — new item: never use shame audio on wrong answers. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-08 02:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 2 new items: prove-learning dashboard, public pricing with no info gate. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+
+## New this run (2026-10-08 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
+- [ ] Parent-facing outcomes dashboard that proves learning, not just playtime: paying parents compare gamified apps to free alternatives and ask whether the app is "more flash" than education (SplashLearn doubt). Show mastery per lesson/topic for the parent — engagement stats alone don't convert. Source: https://www.myengineeringbuddy.com/blog/splashlearn-reviews-alternatives-pricing-offerings/
+- [ ] Pricing visible with no personal-info capture: never require signup, email, or personal details to SEE the price (Time4 Learning gated price behind an info form). All tiers public on a plain page before any account creation. Source: https://www.topconsumerreviews.com/best-learn-to-read-products/
 
 ## New this run (2026-10-07 23:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
 - [ ] Explicit paid-vs-free labeling at signup + visible subscription status in-account + one-tap cancel: ClassDojo parents were charged $59.99–$74.36 without realizing Plus had started, and several struggled to find the cancel option. Sources: https://beenet.app/blog/is-the-classdojo-app-really-free-what-it-costs-in-2026/ and https://www.complaintsboard.com/classdojo-b150044

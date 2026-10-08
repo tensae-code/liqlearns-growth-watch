@@ -1,8 +1,13 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-08 01:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — no new items. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
-"
+Last run: 2026-10-08 02:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 1 new item (trial lessons before payment details — trust conversion). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+
+## New this run (2026-10-08 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| Trial lessons BEFORE payment details are collected (Online Quran Tuition example, UK): safety advice piece cites the provider offering "three trial lessons before asking families for payment details" — parents should "verify how the service is intended to operate before committing" | OnlineThreatAlerts tutor-safety guide (Sep 28, 2026) | https://www.onlinethreatalerts.com/article/2026/9/28/check-online-tutor-safety/ | Asking for a card before the parent has seen the product inverts trust: the cautious parent is the buyer, and verification-before-commitment is exactly what converts them. A free guided trial session before any card capture removes the #1 objection to tutoring platforms | YES — free guided trial session before card details; the guide sells the relationship, the card comes after proof | roadmap |
+
 ## New this run (2026-10-07 23:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
 |---|---|---|---|---|---|
