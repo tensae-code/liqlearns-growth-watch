@@ -1,7 +1,16 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-07 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 3 new entries (ABCmouse multi-year sibling retention; ABCmouse structured path for autistic learners; IXL as 4th-year supplement). Prodigy assignment-alignment and state-test evidence angles already logged (rows above). Brand check: no third-party liqlearns.com mentions.
+Last run: 2026-10-07 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 3 new entries (SplashLearn in-answer scaffolding; Outschool teacher reviews de-risking first purchase; Khan Kids for Schools $5/student institutional layer). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, QuickLearnCrypto, Liqvid, LIQ Amharic study platform).
+
+## New this run (2026-10-07 22:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
+| What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
+|---|---|---|---|---|---|
+| In-answer scaffolding at the moment of error (SplashLearn): "There are hints and suggestions as the students input their answers if they are incorrect. Great higher level thinking questions!" | Christina, US teacher (2+ years, Capterra) | https://www.capterra.in/software/213986/splashlearn | Correction AT the error is tutoring, not testing — the platform guides instead of grading. This is the positive mirror of the ABCmouse no-corrective-feedback complaint | YES — doctrine's "corrections never say wrong"; hint-before-mark on every drill miss | can-implement |
+| Reviews de-risk the first booking (Outschool): "The ability to read reviews and teacher ratings before signing up provides reassurance about class quality... This helped me feel so much more confident that the teacher was trustworthy, knowledgeable, and worth my $12." | The Simple Homeschooler, via OpenEd review | https://OpenEd.co/tools/outschool | A marketplace's first purchase is a trust leap; verified tutor ratings shrink it — parents buy the teacher they can preview | YES — verified learner/parent reviews on every guide profile | can-implement |
+| Paid institutional layer on a free consumer app (Khan Academy Kids): "The one paid piece is for schools: Khan Kids for Schools costs $5 per student and adds a web-based teacher dashboard, district reporting, live professional learning and an implementation manager. The app itself stays free." | Boddle comparison guide | https://www.boddlelearning.com/article/boddle-vs-khan-academy-kids | The free app builds love and word-of-mouth; schools pay for the dashboard layer — retention funded by orgs, not by interrupting learners | YES — monetize orgs/schools, keep learner surfaces monetization-free | can-implement |
+
+## New this run (2026-10-07 21:47 EDT — rotation 1, competitor batch A: Prodigy / ABCmouse / IXL)
 
 ## New this run (2026-10-07 21:47 EDT — rotation 1, competitor batch A: Prodigy / ABCmouse / IXL)
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |

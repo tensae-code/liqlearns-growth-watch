@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-07 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — no new items in this file this run. Brand check: no third-party liqlearns.com mentions (lookalikes only: Liquid Learning, QuickLearnCrypto, learnsql.com; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
+Last run: 2026-10-07 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — no new items in this file this run. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, QuickLearnCrypto, learnsql.com, Liqvid, LIQ Amharic study platform; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
 "
 ## New this run (2026-10-07 19:47 EDT — rotation 19, APKs & software)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |

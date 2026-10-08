@@ -1,7 +1,12 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-07 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — new items: explain-why-wrong corrective feedback on every drill miss; vary question formats for concept transfer. Brand check: no third-party liqlearns.com mentions.
+Last run: 2026-10-07 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — new items: instant assignment propagation; one-sentence plain-English refund terms; honest curriculum-coverage labels. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, QuickLearnCrypto, Liqvid, LIQ Amharic study platform).
+
+## New this run (2026-10-07 22:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
+- [ ] Instant assignment propagation: anything a guide/teacher assigns must appear on the learner's portal immediately, with a visible sync state — SplashLearn reviewers report cross-grade assignments that "do not show up instantly" on the student portal. Source: https://www.trustradius.com/products/splashlearn/reviews?qs=quick-pulse
+- [ ] One-sentence plain-English refund terms at checkout: Outschool's Flexible/Moderate/Limited tier policy is "a little complex to go through" (Smarter Learning Guide) and parents call it "sketchy and unethical" (r/homeschool). The cancel-anytime brand must read as one sentence, never a tier table. Sources: https://smarterlearningguide.com/outschool-review/ and https://OpenEd.co/tools/outschool
+- [ ] Honest curriculum-coverage labels per course: a SplashLearn teacher flags "It does not cover all aspects of the math curriculum, that I teach." Label what each course actually covers per grade/subject; undisclosed gaps get discovered on test day. Source: https://www.spotsaas.com/product/splashlearn/reviews
 
 ## New this run (2026-10-07 21:47 EDT — rotation 1, competitor batch A: Prodigy / ABCmouse / IXL)
 - [ ] Corrective feedback on every drill miss: never mark an answer wrong without showing WHY it's wrong and offering a guided retry path — ABCmouse parents complain the platform "doesn't provide corrective feedback that allows kids to see and understand their mistakes," and kids then play for the pets/tickets instead of the learning. A guided-tutor brand's drills must teach at the moment of error. Source: https://brighterly.com/blog/abcmouse-reviews/

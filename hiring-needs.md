@@ -1,7 +1,12 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-07 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — no new items in this file this run. Brand check: no third-party liqlearns.com mentions (lookalikes only: Liquid Learning, QuickLearnCrypto, learnsql.com; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
+Last run: 2026-10-07 22:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 1 new item (curriculum-coverage mapper). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, QuickLearnCrypto, Liqvid, LIQ Amharic study platform; only own repos tensae-code/liqlearns_admin and tensae-code/liqlearns-admin-hub).
+
+## New this run (2026-10-07 22:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
+| Human task needed | Source complaint | Link | Notes | Status |
+|---|---|---|---|---|
+| Human curriculum-coverage mapper — verifies each course's actual standards/grade coverage so the coverage labels shown to parents are honest, not auto-generated claims | SplashLearn teacher (spotsaas): "It does not cover all aspects of the math curriculum, that I teach." | https://www.spotsaas.com/product/splashlearn/reviews | A machine can list topics; only a person can certify a coverage map parents can trust on test day. Protects the "courses cover only subjects we actually know" positioning | open |
 "
 ## New this run (2026-10-06 23:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy))
 | Human task needed | Source complaint | Link | Notes | Status |
