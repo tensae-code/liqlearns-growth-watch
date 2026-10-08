@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-08 09:47 EDT — rotation 9 (brand mentions anywhere) — no new items in this file this run. Brand check: no third-party liqlearns.com mentions (only own GitHub repos; lookalikes: Liquid Learning, QuickLearnCrypto, Liqvid, Learnacrylic, coachli.co Likelearning School, superprof tutor Liqiu).
+Last run: 2026-10-08 10:47 EDT — rotation 10 (general quality radar: cross-industry UI/UX complaints) — no new items in this file this run. Brand check: no third-party liqlearns.com mentions (only own GitHub repos; lookalikes: Liquid Learning, QuickLearnCrypto, Liqvid, slideserve quicklearningschools, coachli.co).
 ## New this run (2026-10-08 06:47 EDT — rotation 6, lifespan batch F)
 | Requested feature | Who asked | Link | Why it matters | Roadmap verdict | Status |
 |---|---|---|---|---|---|

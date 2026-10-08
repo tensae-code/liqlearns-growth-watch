@@ -1,7 +1,9 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-08 09:47 EDT — rotation 9 (brand mentions anywhere) — no new items in this file this run. Brand check: no third-party liqlearns.com mentions (only own GitHub repos; lookalikes: Liquid Learning, QuickLearnCrypto, Liqvid, Learnacrylic, coachli.co Likelearning School, superprof tutor Liqiu).
+Last run: 2026-10-08 10:47 EDT — rotation 10 (general quality radar: cross-industry UI/UX complaints) — new items logged below. Brand check: no third-party liqlearns.com mentions (only own GitHub repos; lookalikes: Liquid Learning, QuickLearnCrypto, Liqvid, slideserve quicklearningschools, coachli.co).
+## New this run (2026-10-08 10:47 EDT — rotation 10, general quality radar)
+| Billing-integrity auditor (human, recurring): reconcile billing events against cancellation events; catch phantom charges where a cancelled plan kept billing — the HP Instant Ink saga (4 cancellations ignored over 4 years) is what happens with no human audit loop | HP Instant Ink phantom billing | https://hackernoon.com/theres-no-such-thing-as-a-fixed-price-printer-or-the-dark-pattern-of-the-subscription-economy | Pairs with the self-serve cancel + email receipt build (Lovable). Can be a part-time bookkeeping role; escalate mismatches to the user before refunds go out | open |
 ## New this run (2026-10-08 06:47 EDT — rotation 6, lifespan batch F)
 | Human task needed | Source complaint | Link | Notes | Status |
 |---|---|---|---|---|
