@@ -1,7 +1,11 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-08 05:47 EDT — rotation 5 (tutoring batch E: TutorMe / Club Z / Khan Academy all-ages / Udemy / Skillshare) — 1 new item (Khan Academy mastery dashboard + teacher dashboard per-skill mastery). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repos tensae-code/liqlearns_admin and liqlearns-admin-hub).
+Last run: 2026-10-08 06:47 EDT — rotation 6 (lifespan batch F: Lumosity / Elevate / Peak, senior tech-literacy, MasterClass) — 1 new item (MasterClass-style users want live sessions + mentor interaction). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin surfaced this run).
+## New this run (2026-10-08 06:47 EDT — rotation 6, lifespan batch F)
+| Requested feature | Who asked | Link | Why it matters | Roadmap verdict | Status |
+|---|---|---|---|---|---|
+| Live classes / mentor interaction on celebrity-course platforms: 2026 MasterClass reviewer wishes it had "live classes or any direct way to interact with mentors... weekly live sessions, Q&A calls, or even a built-in community where learners can ask questions or share their struggles" | Studelp honest-review author (2026) | https://studelp.com/is-masterclass-worth-it.html | The demand side of the anti-MasterClass positioning: even passive-VOD learners want a human/interactive layer. LiqLearns' answer is the guide — AI coach Liq prompting-not-performing, study rooms, battles, clans. Keep the interactive layer non-negotiable in the monthly ship cycle; don't drift toward a VOD library | YES — protect + ship: interactive surfaces (Liq coach, study rooms, battles) are the feature MasterClass buyers wish they had; pitch angle "the tutoring MasterClass never was" | roadmap |
 ## New this run (2026-10-08 05:47 EDT — rotation 5, tutoring batch E: TutorMe / Club Z / Khan Academy / Udemy / Skillshare)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
 |---|---|---|---|---|---|

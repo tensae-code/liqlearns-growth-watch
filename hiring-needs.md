@@ -1,7 +1,11 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-08 05:47 EDT — rotation 5 (tutoring batch E: TutorMe / Club Z / Khan Academy all-ages / Udemy / Skillshare) — 2 new needs: tutor-conduct standards + parent-escalation owner; brand-impersonation monitor. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repos tensae-code/liqlearns_admin and liqlearns-admin-hub).
+Last run: 2026-10-08 06:47 EDT — rotation 6 (lifespan batch F: Lumosity / Elevate / Peak, senior tech-literacy, MasterClass) — 1 new need: reachable human support contact (phone/callback) for cancellations, aimed at the 60+ segment. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin surfaced this run).
+## New this run (2026-10-08 06:47 EDT — rotation 6, lifespan batch F)
+| Human task needed | Source complaint | Link | Notes | Status |
+|---|---|---|---|---|
+| Reachable human support contact (phone/callback line) for cancellations and billing disputes, serving the 60+ segment especially: Lumosity's 2026 reviewers begged for "a phone number to speak with a real person" and reported "I never actually heard back from anyone" after emails and auto-reply-only Facebook messages | Lumosity PissedConsumer reviews (Feb/Jan 2026) | https://lumosity.pissedconsumer.com/complaints/RT-P.html | A cancel-anytime contract that only exits through a ticket void is dishonest. Complements the existing human billing-dispute resolver: this is the named public contact (phone/callback) rather than an internal resolver. Older adults can't be expected to fight an email maze; the dignity-first 60+ rung needs a person who answers | open |
 ## New this run (2026-10-08 05:47 EDT — rotation 5, tutoring batch E: TutorMe / Club Z / Khan Academy / Udemy / Skillshare)
 | Human task needed | Source complaint | Link | Notes | Status |
 |---|---|---|---|---|
