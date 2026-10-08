@@ -1,7 +1,7 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-08 07:47 EDT — rotation 7 (Lovable-built website issues) — no new items in this file this run (rotation 7 feeds lovable-fix-checklist/complaints-check/idea). Brand check: no third-party liqlearns.com mentions (lookalikes: The Liquidity, Liquid Web, Learnacrylic, LingQ, The Liquorists; only own repos surfaced).
+Last run: 2026-10-08 08:47 EDT — rotation 8 (AI-website commentary + idea harvest — idea-harvest half per back-to-back rule vs rotation 7) — no new items in this file this run (rotation 8 feeds idea.md + success-patterns.md). Brand check: no third-party liqlearns.com mentions (only own GitHub repos; lookalikes: Liquid Learning, QuickLearnCrypto, QLearn, LinkLearn, Liqvid).
 ## New this run (2026-10-08 06:47 EDT — rotation 6, lifespan batch F)
 | Human task needed | Source complaint | Link | Notes | Status |
 |---|---|---|---|---|

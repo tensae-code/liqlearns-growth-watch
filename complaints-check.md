@@ -1,7 +1,7 @@
 # Complaints vs LiqLearns — "did I make the same mistake?" check
 
 
-Last run: 2026-10-08 07:47 EDT — rotation 7 (Lovable-built website issues: SEO/RLS/perf themes re-surfaced from prior runs, so only new angles logged) — 2 new rows (vibe-coded app-store packaging pitfalls; silent platform outage). Brand check: no third-party liqlearns.com mentions (lookalikes: The Liquidity, Liquid Web, Learnacrylic, LingQ, The Liquorists; only own repos surfaced).
+Last run: 2026-10-08 08:47 EDT — rotation 8 (AI-website commentary + idea harvest — idea-harvest half per back-to-back rule vs rotation 7) — no new items in this file this run (rotation 8 feeds idea.md + success-patterns.md). Brand check: no third-party liqlearns.com mentions (only own GitHub repos; lookalikes: Liquid Learning, QuickLearnCrypto, QLearn, LinkLearn, Liqvid).
 ## New this run (2026-10-08 07:47 EDT — rotation 7, Lovable-built website issues: packaging + platform-reliability angles)
 | Complaint (platform) | Who said it | Link | Same mistake in LiqLearns? | Fix via (Lovable / Human) | Status |
 |---|---|---|---|---|---|
