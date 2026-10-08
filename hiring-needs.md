@@ -1,7 +1,11 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-08 02:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 1 new need: kids' content QA editor (spelling/grammar + tone before publish). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-08 03:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 1 new need: gamification/pedagogy ethics reviewer for reward mechanics. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+## New this run (2026-10-08 03:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
+| Human task needed | Source complaint | Link | Notes | Status |
+|---|---|---|---|---|
+| Gamification/pedagogy ethics reviewer: audit every reward, streak, badge, and ranking mechanic against self-regulation and motivation research BEFORE shipping; own the ethics review of kid-facing gamification | UniSA research via ellaslist: ClassDojo's points system likened to social-credit surveillance; said to damage self-motivation/self-regulation and fuel unhealthy competition | https://www.ellaslist.com.au/articles/this-school-app-is-controlling-and-sending-out-the-wrong-message-to-students-says-research | XP/badges/streaks are LiqLearns' engagement engine — one public-shaming incident or regulator-grade criticism torpedoes the kid-safe positioning. This reviewer signs off every mechanic, kids' and adults' | open |
 
 ## New this run (2026-10-08 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
 | Human task needed | Source complaint | Link | Notes | Status |

@@ -1,7 +1,11 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-08 02:47 EDT — rotation 2 (competitor batch B: SplashLearn / Khan Academy Kids / Outschool) — 1 new item (trial lessons before payment details — trust conversion). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-08 03:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 1 new item (ClassDojo Beyond School parent-companion award system + guided reflections). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+## New this run (2026-10-08 03:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| Parent-companion award system with custom criteria + guided reflections (ClassDojo Beyond School, 2018 monetization feature): parents set their OWN criteria for awarding points at home; ships short guided mindfulness videos plus self-reflection video responses ("What's the best thing about your family?"); kids decorate their own avatar | EdSurge launch coverage (parent tester Mercedes Ford); ClassDojo CEO Sam Chaudhary | https://www.edsurge.com/news/2018-11-15-classdojo-goes-beyond-school-to-launch-first-monetization-feature-for-parents?ref=strv.ghost.io | Home-side engagement is the retention glue schools can't provide — a parent mode turns the app into a family routine instead of a school assignment. Parent-defined criteria keep the home from becoming a second surveillance layer; the reflection prompts double as shareable family moments (TikTok-adjacent) | YES — family-plan parent companion: parents define at-home criteria tied to course progress + reflection video prompts | roadmap |
 
 ## New this run (2026-10-08 02:47 EDT — rotation 2, competitor batch B: SplashLearn / Khan Academy Kids / Outschool)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
