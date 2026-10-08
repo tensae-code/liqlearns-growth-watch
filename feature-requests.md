@@ -1,7 +1,7 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-08 06:47 EDT — rotation 6 (lifespan batch F: Lumosity / Elevate / Peak, senior tech-literacy, MasterClass) — 1 new item (MasterClass-style users want live sessions + mentor interaction). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin surfaced this run).
+Last run: 2026-10-08 07:47 EDT — rotation 7 (Lovable-built website issues) — no new items in this file this run (rotation 7 feeds lovable-fix-checklist/complaints-check/idea). Brand check: no third-party liqlearns.com mentions (lookalikes: The Liquidity, Liquid Web, Learnacrylic, LingQ, The Liquorists; only own repos surfaced).
 ## New this run (2026-10-08 06:47 EDT — rotation 6, lifespan batch F)
 | Requested feature | Who asked | Link | Why it matters | Roadmap verdict | Status |
 |---|---|---|---|---|---|

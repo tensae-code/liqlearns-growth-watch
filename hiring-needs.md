@@ -1,7 +1,7 @@
 # Hiring needs — the hiring form (NOT a job post, NOT hiring now)
 
 Running list of human tasks LiqLearns will eventually need people for, derived from complaints the watch finds. Each need traces back to a real complaint and its fix note. Nothing here means hiring — the user decides when and if anyone gets hired. Never draft job posts from this without his explicit go-ahead.
-Last run: 2026-10-08 06:47 EDT — rotation 6 (lifespan batch F: Lumosity / Elevate / Peak, senior tech-literacy, MasterClass) — 1 new need: reachable human support contact (phone/callback) for cancellations, aimed at the 60+ segment. Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin surfaced this run).
+Last run: 2026-10-08 07:47 EDT — rotation 7 (Lovable-built website issues) — no new items in this file this run (rotation 7 feeds lovable-fix-checklist/complaints-check/idea). Brand check: no third-party liqlearns.com mentions (lookalikes: The Liquidity, Liquid Web, Learnacrylic, LingQ, The Liquorists; only own repos surfaced).
 ## New this run (2026-10-08 06:47 EDT — rotation 6, lifespan batch F)
 | Human task needed | Source complaint | Link | Notes | Status |
 |---|---|---|---|---|

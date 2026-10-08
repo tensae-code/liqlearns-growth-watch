@@ -1,7 +1,7 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-08 06:47 EDT — rotation 6 (lifespan batch F: Lumosity / Elevate / Peak, senior tech-literacy, MasterClass) — 3 new items (Elevate real-life-transfer retention; NeuroNation medical certification as trust; WISE senior classes word-of-mouth). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin surfaced this run).
+Last run: 2026-10-08 07:47 EDT — rotation 7 (Lovable-built website issues) — no new items in this file this run (rotation 7 feeds lovable-fix-checklist/complaints-check/idea). Brand check: no third-party liqlearns.com mentions (lookalikes: The Liquidity, Liquid Web, Learnacrylic, LingQ, The Liquorists; only own repos surfaced).
 ## New this run (2026-10-08 06:47 EDT — rotation 6, lifespan batch F: brain apps + senior tech-literacy)
 | What they do right | Who said it | Link | Why users stay | Can LiqLearns implement? | Status |
 |---|---|---|---|---|---|
