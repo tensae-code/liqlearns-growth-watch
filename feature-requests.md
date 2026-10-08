@@ -1,7 +1,11 @@
 # Feature requests spotted in the wild
 
 "I wish it had...", "does X support...", "why doesn't X let me..." — requested features on any learning/tutoring platform. Feeds the user's goal of shipping feature updates every month after launch. Flag high-demand items. Statuses: roadmap / already-have / not-a-fit / unknown.
-Last run: 2026-10-08 03:47 EDT — rotation 3 (competitor batch C: ClassDojo / Duolingo ABC+Math / BrainPOP / Adventure Academy) — 1 new item (ClassDojo Beyond School parent-companion award system + guided reflections). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repo tensae-code/liqlearns_admin).
+Last run: 2026-10-08 05:47 EDT — rotation 5 (tutoring batch E: TutorMe / Club Z / Khan Academy all-ages / Udemy / Skillshare) — 1 new item (Khan Academy mastery dashboard + teacher dashboard per-skill mastery). Brand check: no third-party liqlearns.com mentions (lookalikes: Liquid Learning, Liqvid (liqvid.com), QuickLearnCrypto; only own repos tensae-code/liqlearns_admin and liqlearns-admin-hub).
+## New this run (2026-10-08 05:47 EDT — rotation 5, tutoring batch E: TutorMe / Club Z / Khan Academy / Udemy / Skillshare)
+| Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
+|---|---|---|---|---|---|
+| Mastery dashboards: per-skill mastery scoring (not single course grades), teacher dashboard showing which skills each student mastered / is working on / is struggling with, assignable practice to individuals or groups, course-mastery reports for small-group instruction (Khan Academy structural feature) | EduGenius review of Khan Academy (Oct 2026) — teacher-facing feature breakdown | https://www.edugenius.app/blog/khan-academy-vs-essaygrader-which-is-better-for-teachers | Sourced as a feature already shipped elsewhere — and it IS the fix for this run's ClassDojo "one-click scoring erases the why" complaint: mastery-per-skill with the why attached is the answer. Parents/teachers want skill-level evidence, not a badge count | YES — mastery-per-skill views + parent/teacher dashboard showing exactly which sub-skill needs reteaching | roadmap |
 ## New this run (2026-10-08 03:47 EDT — rotation 3, competitor batch C: ClassDojo / Duolingo Math / BrainPOP / Adventure Academy)
 | Requested feature (platform) | Who asked | Link | Why it matters | Add to LiqLearns? | Status |
 |---|---|---|---|---|---|
