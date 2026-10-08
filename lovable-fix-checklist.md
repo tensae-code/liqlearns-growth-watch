@@ -1,7 +1,11 @@
 # Lovable-built site fix checklist
 
 Things heard in the wild about Lovable-built websites that are missing, must be fixed, or must be said. Each item carries its source. Mark items done yourself with `[x]` — the watch never marks them.
-Last run: 2026-10-07 19:47 EDT — rotation 19 (APKs & software) — new items: fleeceware-proof billing honesty (terms + cancel + deletion-warning); low-bandwidth/degraded mode for live sessions. Brand check: no third-party liqlearns.com mentions.
+Last run: 2026-10-07 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — new items: explain-why-wrong corrective feedback on every drill miss; vary question formats for concept transfer. Brand check: no third-party liqlearns.com mentions.
+
+## New this run (2026-10-07 21:47 EDT — rotation 1, competitor batch A: Prodigy / ABCmouse / IXL)
+- [ ] Corrective feedback on every drill miss: never mark an answer wrong without showing WHY it's wrong and offering a guided retry path — ABCmouse parents complain the platform "doesn't provide corrective feedback that allows kids to see and understand their mistakes," and kids then play for the pets/tickets instead of the learning. A guided-tutor brand's drills must teach at the moment of error. Source: https://brighterly.com/blog/abcmouse-reviews/
+- [ ] Vary question formats per skill so mastery transfers: rephrase and re-format questions within a skill (not just new numbers) and spot-check unfamiliar phrasing — IXL criticism documents the procedural-fluency vs conceptual-understanding gap ("aces" IXL, fails the same material on a differently-phrased test). Source: https://neurolaunch.com/why-is-ixl-so-bad/
 "
 ## New this run (2026-10-07 19:47 EDT — rotation 19, APKs & software)
 - [ ] Fleeceware-proof billing UI: state full subscription terms in plain language BEFORE any payment; keep cancel inside the product (one tap); show an explicit "deleting the app does NOT cancel your plan" warning; refund requests go to a named human, never "contact the developer" ping-pong. Fleeceware apps (Avast: 204 found, $4–12/week, some $66/week) profit from victims not knowing billing survives app deletion. Source: http://www.itnews.com.au/news/scammers-abuse-app-store-subscriptions-to-rake-in-millions-562571

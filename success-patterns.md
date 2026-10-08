@@ -1,7 +1,14 @@
 # Success patterns — why users STAY (the positive mirror of complaints)
 
 What competitors do right, why users stay, and whether LiqLearns can implement it. The user wants to copy what works, not just avoid what fails. Statuses: can-implement / already-have / not-a-fit / unknown.
-Last run: 2026-10-07 19:47 EDT — rotation 19 (APKs & software) — new entries: Lessonspace persistent per-student rooms + board-replay recordings; TutorBird billing/reminder automations (4.8/5, 268 reviews); Whiteboard Fox frictionless join. Brand check: no third-party liqlearns.com mentions.
+Last run: 2026-10-07 21:47 EDT — rotation 1 (competitor batch A: Prodigy / ABCmouse / IXL) — 3 new entries (ABCmouse multi-year sibling retention; ABCmouse structured path for autistic learners; IXL as 4th-year supplement). Prodigy assignment-alignment and state-test evidence angles already logged (rows above). Brand check: no third-party liqlearns.com mentions.
+
+## New this run (2026-10-07 21:47 EDT — rotation 1, competitor batch A: Prodigy / ABCmouse / IXL)
+| What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
+|---|---|---|---|---|---|
+| ABCmouse multi-year sibling retention: "I used this app for years with my older kids and am now back with my younger kids... Half the time they forget that it's also educational!!!" (AppBrain, Aug 22, 2026) | Lenore Vanasco (parent of older + younger kids) | https://www.appbrain.com/app/ab-cmouse-2-0/com.aofl.abcmouse | Sibling-chain retention: one account serves the whole family across ages — the user returns for the NEXT child instead of churning. Family plans that span ages are the retention shape | YES — family account spanning ages/siblings; matches his baby-to-granny lifespan framing | can-implement |
+| ABCmouse structured learning path for autistic learners: "My autistic sons love the 'learning path' and interactive learning games" (Reddit via Brighterly) | Parent of autistic sons | https://brighterly.com/blog/abcmouse-reviews/ | Predictable, structured progression beats gamified chaos for neurodivergent learners — a visible dependable path is an accessibility feature, not just UX | YES — offer a visible structured learning path alongside free exploration; predictable sequence option per learner | can-implement |
+| IXL as 4th-year practice companion: "IXL has been part of his progress… this is our 4th year using it" (TheHomeSchoolMom via OpenEd roundup) | Homeschool parent | https://OpenEd.co/tools/prodigy-math | Long-lived adaptive practice keeps families when scores stay a GUIDE, not a target — retention lives in multi-year progress history, not score-chasing | YES — multi-year progress history parents can see; never require target scores (aligns with misuse-not-tool finding) | can-implement |
 "
 ## New this run (2026-10-07 19:47 EDT — rotation 19, APKs & software: tutoring desktop software)
 | What they do right (platform) | Who said it | Link | Why it retains users | Can LiqLearns implement it? | Status |
