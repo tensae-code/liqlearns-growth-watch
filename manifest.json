@@ -1,6 +1,14 @@
 {
   "panels": [
     {
+      "file": "ai-builder-critiques.md",
+      "kind": "table"
+    },
+    {
+      "file": "competitors.md",
+      "kind": "notes"
+    },
+    {
       "file": "complaints-check.md",
       "kind": "table"
     },
@@ -29,12 +37,12 @@
       "kind": "checklist"
     },
     {
-      "file": "prospects.md",
-      "kind": "prospects"
-    },
-    {
       "file": "success-patterns.md",
       "kind": "table"
+    },
+    {
+      "file": "what-users-ask.md",
+      "kind": "notes"
     }
   ]
 }
